@@ -35,9 +35,9 @@ pip install -r requirements.txt
 
 ### 2. Get Cloudflare Cookies
 
-You need to get cookies from a logged-in Stake.com session:
+You need to get cookies from a Stake.com session:
 
-1. Open Stake.com in your browser and log in
+1. Open Stake.com in your browser and solve the captcha
 2. Open Developer Tools (F12) → Network tab
 3. Find any request to `stake.com/_api/graphql`
 4. Copy the cookies and save to `cloudflare_cookies.json`:
