@@ -63,6 +63,9 @@ python nba_comprehensive_analyzer.py
 
 # Step 3: Generate tickets
 python nba_ticket_generator_4games.py
+
+# To do all the steps
+python ./run_nba.py
 ```
 
 ### 4. Run for NHL
