@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Output files (regenerated each run)
+nba_all_props.json
+nba_comprehensive_recommendations.json
+nhl_props.json
+nhl_recommendations.json
+nhl_test_analysis.json
+
+# Logs
+output/
+*.log
+
+# Tickets (optional - uncomment to ignore)
+# tickets_dir/
+
+# Sensitive
+cloudflare_cookies.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archive and WIP
+archive/
+wip/
+context/

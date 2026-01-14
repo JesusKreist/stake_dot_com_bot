@@ -1,0 +1,181 @@
+NBA TICKET #3
+================================================================================
+Total Picks: 27
+Total Odds: 7561.06x
+Games: New Orleans Pelicans - Brooklyn Nets, Sacramento Kings - New York Knicks, Indiana Pacers - Toronto Raptors, Philadelphia 76ers - Cleveland Cavaliers
+================================================================================
+
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+Jeremiah Fears (New Orleans Pelicans)
+  fg attempted OVER 8.5
+  Odds: 1.5313935681470137x | Score: 95.7
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [9.0, 12.0, 15.0, 11.0, 13.0, 13.0, 15.0]
+
+Trey Murphy III (New Orleans Pelicans)
+  rebounds OVER 4.5
+  Odds: 1.4781966001478197x | Score: 89.8
+  Recent: 7/7 | Historical: 76.3%
+  Last 7: [5.0, 7.0, 8.0, 5.0, 8.0, 6.0, 6.0]
+
+Jeremiah Fears (New Orleans Pelicans)
+  rebounds OVER 2.5
+  Odds: 1.4547570555717195x | Score: 89.7
+  Recent: 7/7 | Historical: 76.2%
+  Last 7: [3.0, 4.0, 5.0, 4.0, 4.0, 3.0, 5.0]
+
+Jeremiah Fears (New Orleans Pelicans)
+  points OVER 9.5
+  Odds: 1.4712373105781964x | Score: 89.5
+  Recent: 6/7 | Historical: 81.0%
+  Last 7: [10.0, 16.0, 21.0, 11.0, 9.0, 21.0, 18.0]
+
+Trey Murphy III (New Orleans Pelicans)
+  fg attempted OVER 13.5
+  Odds: 1.3192612137203166x | Score: 89.5
+  Recent: 7/7 | Historical: 68.4%
+  Last 7: [18.0, 15.0, 24.0, 26.0, 19.0, 15.0, 16.0]
+
+Nic Claxton (Brooklyn Nets)
+  fg attempted UNDER 10.5
+  Odds: 1.5264845061822623x | Score: 89.0
+  Recent: 7/7 | Historical: 71.4%
+  Last 7: [9.0, 7.0, 9.0, 4.0, 10.0, 9.0, 9.0]
+
+Nic Claxton (Brooklyn Nets)
+  rebounds UNDER 9.5
+  Odds: 1.3819789939192924x | Score: 88.4
+  Recent: 7/7 | Historical: 71.4%
+  Last 7: [6.0, 3.0, 6.0, 6.0, 8.0, 9.0, 6.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+Jalen Brunson (New York Knicks)
+  fg attempted UNDER 24.5
+  Odds: 1.483019427554501x | Score: 93.6
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [19.0, 19.0, 12.0, 21.0, 21.0, 23.0, 24.0]
+
+Jalen Brunson (New York Knicks)
+  points UNDER 33.5
+  Odds: 1.352265043948614x | Score: 92.7
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Jordan Clarkson (New York Knicks)
+  three attempted OVER 2.5
+  Odds: 1.5765410688948447x | Score: 91.6
+  Recent: 7/7 | Historical: 84.6%
+  Last 7: [6.0, 3.0, 3.0, 5.0, 3.0, 3.0, 6.0]
+
+Josh Hart (New York Knicks)
+  three attempted OVER 2.5
+  Odds: 1.3266118333775536x | Score: 91.5
+  Recent: 7/7 | Historical: 86.2%
+  Last 7: [5.0, 5.0, 3.0, 5.0, 3.0, 4.0, 7.0]
+
+Miles McBride (New York Knicks)
+  points OVER 7.5
+  Odds: 1.3245033112582782x | Score: 91.1
+  Recent: 7/7 | Historical: 89.3%
+  Last 7: [8.0, 17.0, 16.0, 17.0, 20.0, 11.0, 21.0]
+
+Miles McBride (New York Knicks)
+  fg made OVER 2.5
+  Odds: 1.3161358252171624x | Score: 90.9
+  Recent: 7/7 | Historical: 89.3%
+  Last 7: [3.0, 7.0, 6.0, 6.0, 6.0, 4.0, 7.0]
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+Jamal Shead (Toronto Raptors)
+  fg attempted UNDER 9.5
+  Odds: 1.8018018018018016x | Score: 89.5
+  Recent: 6/7 | Historical: 87.8%
+  Last 7: [5.0, 15.0, 8.0, 7.0, 3.0, 7.0, 8.0]
+
+Pascal Siakam (Indiana Pacers)
+  points OVER 19.5
+  Odds: 1.2813941568426448x | Score: 88.8
+  Recent: 6/7 | Historical: 76.9%
+  Last 7: [21.0, 11.0, 30.0, 22.0, 34.0, 23.0, 26.0]
+
+Immanuel Quickley (Toronto Raptors)
+  turnovers UNDER 2.5
+  Odds: 1.302252897512697x | Score: 88.7
+  Recent: 7/7 | Historical: 82.5%
+  Last 7: [1.0, 2.0, 2.0, 0.0, 1.0, 1.0, 0.0]
+
+Scottie Barnes (Toronto Raptors)
+  points UNDER 23.5
+  Odds: 1.3046314416177431x | Score: 88.6
+  Recent: 6/7 | Historical: 77.5%
+  Last 7: [15.0, 31.0, 17.0, 18.0, 20.0, 20.0, 13.0]
+
+Andrew Nembhard (Indiana Pacers)
+  turnovers UNDER 3.5
+  Odds: 1.2794268167860798x | Score: 88.6
+  Recent: 7/7 | Historical: 87.1%
+  Last 7: [3.0, 0.0, 3.0, 1.0, 2.0, 3.0, 1.0]
+
+Immanuel Quickley (Toronto Raptors)
+  assists UNDER 7.5
+  Odds: 1.2827090815802977x | Score: 88.4
+  Recent: 6/7 | Historical: 80.0%
+  Last 7: [0.0, 7.0, 13.0, 2.0, 1.0, 7.0, 4.0]
+
+Brandon Ingram (Toronto Raptors)
+  fg attempted UNDER 21.5
+  Odds: 1.3607293509320997x | Score: 88.1
+  Recent: 5/7 | Historical: 84.6%
+  Last 7: [15.0, 7.0, 14.0, 15.0, 21.0, 22.0, 26.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+Tyrese Maxey (Philadelphia 76ers)
+  fg made OVER 8.5
+  Odds: 1.5174506828528072x | Score: 91.7
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [10.0, 13.0, 10.0, 9.0, 10.0, 14.0, 14.0]
+
+Tyrese Maxey (Philadelphia 76ers)
+  points OVER 23.5
+  Odds: 1.3910140492418974x | Score: 90.5
+  Recent: 6/7 | Historical: 83.3%
+  Last 7: [33.0, 38.0, 29.0, 22.0, 28.0, 36.0, 34.0]
+
+Tyrese Maxey (Philadelphia 76ers)
+  three attempted UNDER 10.5
+  Odds: 1.4932059130954158x | Score: 90.1
+  Recent: 7/7 | Historical: 72.2%
+  Last 7: [9.0, 7.0, 8.0, 10.0, 9.0, 9.0, 10.0]
+
+Donovan Mitchell (Cleveland Cavaliers)
+  fg attempted OVER 17.5
+  Odds: 1.315270288044193x | Score: 90.0
+  Recent: 6/7 | Historical: 78.4%
+  Last 7: [18.0, 21.0, 20.0, 21.0, 24.0, 18.0, 12.0]
+
+Darius Garland (Cleveland Cavaliers)
+  fg attempted OVER 11.5
+  Odds: 1.2823800974608874x | Score: 90.0
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [17.0, 13.0, 16.0, 23.0, 15.0, 12.0, 13.0]
+
+Evan Mobley (Cleveland Cavaliers)
+  fg made UNDER 8.5
+  Odds: 1.27420998980632x | Score: 89.5
+  Recent: 6/7 | Historical: 82.9%
+  Last 7: [6.0, 11.0, 8.0, 8.0, 5.0, 4.0, 7.0]
+
+Sam Merrill (Cleveland Cavaliers)
+  three attempted UNDER 10.5
+  Odds: 1.2924906294429364x | Score: 89.2
+  Recent: 6/7 | Historical: 91.3%
+  Last 7: [8.0, 6.0, 11.0, 10.0, 7.0, 9.0, 6.0]
+

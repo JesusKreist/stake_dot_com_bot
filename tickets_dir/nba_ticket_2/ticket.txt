@@ -1,0 +1,175 @@
+NBA TICKET #2
+================================================================================
+Total Picks: 26
+Total Odds: 2957.08x
+Games: Sacramento Kings - New York Knicks, Indiana Pacers - Toronto Raptors, Chicago Bulls - Utah Jazz, New Orleans Pelicans - Brooklyn Nets
+================================================================================
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+Jalen Brunson (New York Knicks)
+  fg attempted UNDER 25.5
+  Odds: 1.3489815189531904x | Score: 96.5
+  Recent: 7/7 | Historical: 86.1%
+  Last 7: [19.0, 19.0, 12.0, 21.0, 21.0, 23.0, 24.0]
+
+Russell Westbrook (Sacramento Kings)
+  fg attempted UNDER 16.5
+  Odds: 1.3840830449826989x | Score: 96.2
+  Recent: 7/7 | Historical: 87.5%
+  Last 7: [16.0, 12.0, 11.0, 15.0, 16.0, 12.0, 11.0]
+
+Jalen Brunson (New York Knicks)
+  points UNDER 34.5
+  Odds: 1.2876641771825907x | Score: 94.7
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Jalen Brunson (New York Knicks)
+  fg made OVER 8.5
+  Odds: 1.2863390789812195x | Score: 94.2
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [10.0, 9.0, 9.0, 10.0, 10.0, 10.0, 10.0]
+
+Jalen Brunson (New York Knicks)
+  fg made UNDER 12.5
+  Odds: 1.3087292239235702x | Score: 93.2
+  Recent: 7/7 | Historical: 80.6%
+  Last 7: [10.0, 9.0, 9.0, 10.0, 10.0, 10.0, 10.0]
+
+Miles McBride (New York Knicks)
+  three attempted OVER 4.5
+  Odds: 1.2998830105290524x | Score: 92.6
+  Recent: 7/7 | Historical: 89.3%
+  Last 7: [9.0, 8.0, 11.0, 6.0, 7.0, 10.0, 9.0]
+
+Jordan Clarkson (New York Knicks)
+  fg attempted OVER 4.5
+  Odds: 1.347164219318335x | Score: 92.1
+  Recent: 6/7 | Historical: 92.3%
+  Last 7: [6.0, 8.0, 9.0, 6.0, 4.0, 8.0, 17.0]
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+Scottie Barnes (Toronto Raptors)
+  fg attempted UNDER 17.5
+  Odds: 1.426330052774212x | Score: 91.9
+  Recent: 6/7 | Historical: 82.5%
+  Last 7: [16.0, 19.0, 14.0, 16.0, 14.0, 14.0, 12.0]
+
+Jamal Shead (Toronto Raptors)
+  fg attempted UNDER 11.5
+  Odds: 1.322226629644321x | Score: 90.3
+  Recent: 6/7 | Historical: 90.2%
+  Last 7: [5.0, 15.0, 8.0, 7.0, 3.0, 7.0, 8.0]
+
+Immanuel Quickley (Toronto Raptors)
+  three attempted OVER 6.5
+  Odds: 1.4773230905599055x | Score: 89.1
+  Recent: 7/7 | Historical: 67.5%
+  Last 7: [10.0, 8.0, 10.0, 11.0, 7.0, 8.0, 11.0]
+
+Jamal Shead (Toronto Raptors)
+  points UNDER 13.5
+  Odds: 1.3674278681799537x | Score: 89.0
+  Recent: 6/7 | Historical: 92.7%
+  Last 7: [3.0, 22.0, 13.0, 4.0, 5.0, 10.0, 2.0]
+
+Immanuel Quickley (Toronto Raptors)
+  points OVER 14.5
+  Odds: 1.339764201500536x | Score: 88.9
+  Recent: 7/7 | Historical: 70.0%
+  Last 7: [18.0, 20.0, 17.0, 21.0, 16.0, 15.0, 22.0]
+
+Jamal Shead (Toronto Raptors)
+  rebounds UNDER 3.5
+  Odds: 1.347164219318335x | Score: 88.8
+  Recent: 7/7 | Historical: 90.2%
+  Last 7: [1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+Lauri Markkanen (Utah Jazz)
+  points OVER 21.5
+  Odds: 1.3533631073216945x | Score: 89.2
+  Recent: 7/7 | Historical: 72.7%
+  Last 7: [28.0, 33.0, 29.0, 22.0, 35.0, 22.0, 29.0]
+
+Tre Jones (Chicago Bulls)
+  fg attempted OVER 6.5
+  Odds: 1.4326647564469914x | Score: 89.1
+  Recent: 7/7 | Historical: 72.7%
+  Last 7: [12.0, 8.0, 7.0, 7.0, 10.0, 7.0, 7.0]
+
+Coby White (Chicago Bulls)
+  fg attempted UNDER 16.5
+  Odds: 1.5053439710973957x | Score: 88.4
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [15.0, 7.0, 0.0, 12.0, 12.0, 13.0, 13.0]
+
+Isaac Okoro (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.2990387113535982x | Score: 87.6
+  Recent: 6/7 | Historical: 90.3%
+  Last 7: [4.0, 4.0, 4.0, 3.0, 2.0, 3.0, 5.0]
+
+Keyonte George (Utah Jazz)
+  three attempted UNDER 9.5
+  Odds: 1.4952153110047848x | Score: 86.8
+  Recent: 6/7 | Historical: 78.9%
+  Last 7: [8.0, 2.0, 4.0, 9.0, 2.0, 9.0, 12.0]
+
+Keyonte George (Utah Jazz)
+  fg made UNDER 9.5
+  Odds: 1.3493455673998112x | Score: 86.7
+  Recent: 6/7 | Historical: 76.3%
+  Last 7: [8.0, 2.0, 8.0, 9.0, 5.0, 7.0, 13.0]
+
+Keyonte George (Utah Jazz)
+  fg attempted UNDER 20.5
+  Odds: 1.4184397163120568x | Score: 86.5
+  Recent: 5/7 | Historical: 81.6%
+  Last 7: [16.0, 7.0, 12.0, 22.0, 12.0, 18.0, 24.0]
+
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+Jeremiah Fears (New Orleans Pelicans)
+  fg attempted OVER 7.5
+  Odds: 1.3245033112582782x | Score: 99.0
+  Recent: 7/7 | Historical: 92.9%
+  Last 7: [9.0, 12.0, 15.0, 11.0, 13.0, 13.0, 15.0]
+
+Jeremiah Fears (New Orleans Pelicans)
+  points OVER 8.5
+  Odds: 1.3308490817141336x | Score: 95.6
+  Recent: 7/7 | Historical: 88.1%
+  Last 7: [10.0, 16.0, 21.0, 11.0, 9.0, 21.0, 18.0]
+
+Nic Claxton (Brooklyn Nets)
+  fg attempted UNDER 11.5
+  Odds: 1.3274923669188903x | Score: 91.0
+  Recent: 7/7 | Historical: 77.1%
+  Last 7: [9.0, 7.0, 9.0, 4.0, 10.0, 9.0, 9.0]
+
+Saddiq Bey (New Orleans Pelicans)
+  fg attempted OVER 8.5
+  Odds: 1.3292569453675396x | Score: 90.2
+  Recent: 6/7 | Historical: 85.7%
+  Last 7: [8.0, 16.0, 21.0, 10.0, 14.0, 13.0, 17.0]
+
+Nic Claxton (Brooklyn Nets)
+  points UNDER 16.5
+  Odds: 1.3526308670363858x | Score: 90.2
+  Recent: 7/7 | Historical: 74.3%
+  Last 7: [13.0, 7.0, 13.0, 7.0, 11.0, 15.0, 14.0]
+
+Saddiq Bey (New Orleans Pelicans)
+  fg made OVER 3.5
+  Odds: 1.3290802764486975x | Score: 89.8
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [4.0, 6.0, 9.0, 5.0, 4.0, 5.0, 7.0]
+

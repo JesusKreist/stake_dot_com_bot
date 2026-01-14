@@ -1,0 +1,169 @@
+NBA TICKET #5
+================================================================================
+Total Picks: 25
+Total Odds: 6410.76x
+Games: Chicago Bulls - Utah Jazz, New Orleans Pelicans - Brooklyn Nets, Sacramento Kings - New York Knicks, LA Clippers - Washington Wizards
+================================================================================
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+Keyonte George (Utah Jazz)
+  fg attempted UNDER 21.5
+  Odds: 1.2828736369467608x | Score: 86.5
+  Recent: 5/7 | Historical: 81.6%
+  Last 7: [16.0, 7.0, 12.0, 22.0, 12.0, 18.0, 24.0]
+
+Coby White (Chicago Bulls)
+  fg attempted UNDER 15.5
+  Odds: 1.6559032952475576x | Score: 86.4
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [15.0, 7.0, 0.0, 12.0, 12.0, 13.0, 13.0]
+
+Lauri Markkanen (Utah Jazz)
+  fg made OVER 7.5
+  Odds: 1.3900472616068946x | Score: 86.1
+  Recent: 6/7 | Historical: 75.8%
+  Last 7: [8.0, 14.0, 11.0, 8.0, 15.0, 6.0, 11.0]
+
+Ayo Dosunmu (Chicago Bulls)
+  fg attempted OVER 8.5
+  Odds: 1.3954786491766675x | Score: 86.1
+  Recent: 6/7 | Historical: 72.7%
+  Last 7: [8.0, 9.0, 15.0, 13.0, 12.0, 9.0, 11.0]
+
+Coby White (Chicago Bulls)
+  points UNDER 24.5
+  Odds: 1.349527665317139x | Score: 85.7
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [22.0, 5.0, 0.0, 16.0, 13.0, 24.0, 21.0]
+
+Matas Buzelis (Chicago Bulls)
+  fg made OVER 4.5
+  Odds: 1.3048016701461378x | Score: 85.6
+  Recent: 7/7 | Historical: 64.1%
+  Last 7: [7.0, 7.0, 7.0, 9.0, 6.0, 6.0, 8.0]
+
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+Jeremiah Fears (New Orleans Pelicans)
+  fg attempted OVER 10.5
+  Odds: 2.099517111064455x | Score: 88.8
+  Recent: 6/7 | Historical: 73.8%
+  Last 7: [9.0, 12.0, 15.0, 11.0, 13.0, 13.0, 15.0]
+
+Michael Porter Jr. (Brooklyn Nets)
+  three attempted OVER 7.5
+  Odds: 1.2797542871768621x | Score: 87.6
+  Recent: 6/7 | Historical: 80.0%
+  Last 7: [10.0, 9.0, 18.0, 6.0, 9.0, 8.0, 12.0]
+
+Jeremiah Fears (New Orleans Pelicans)
+  turnovers OVER 1.5
+  Odds: 1.5234613040828764x | Score: 87.5
+  Recent: 7/7 | Historical: 73.8%
+  Last 7: [4.0, 2.0, 6.0, 4.0, 2.0, 4.0, 4.0]
+
+Saddiq Bey (New Orleans Pelicans)
+  three attempted OVER 3.5
+  Odds: 1.5969338869370808x | Score: 87.4
+  Recent: 6/7 | Historical: 80.0%
+  Last 7: [4.0, 7.0, 10.0, 2.0, 5.0, 5.0, 6.0]
+
+Zion Williamson (New Orleans Pelicans)
+  fg attempted UNDER 16.5
+  Odds: 1.3854253255749516x | Score: 87.1
+  Recent: 6/7 | Historical: 80.8%
+  Last 7: [12.0, 14.0, 14.0, 15.0, 13.0, 10.0, 26.0]
+
+Michael Porter Jr. (Brooklyn Nets)
+  turnovers OVER 1.5
+  Odds: 1.3266118333775536x | Score: 86.9
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [6.0, 2.0, 5.0, 4.0, 2.0, 3.0, 3.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+Mikal Bridges (New York Knicks)
+  fg attempted OVER 9.5
+  Odds: 1.3910140492418974x | Score: 90.6
+  Recent: 6/7 | Historical: 82.1%
+  Last 7: [15.0, 10.0, 14.0, 10.0, 14.0, 19.0, 9.0]
+
+Mikal Bridges (New York Knicks)
+  points OVER 10.5
+  Odds: 1.3183915622940015x | Score: 90.5
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [18.0, 11.0, 15.0, 10.0, 12.0, 18.0, 13.0]
+
+Jalen Brunson (New York Knicks)
+  fg made UNDER 11.5
+  Odds: 1.5232292460015233x | Score: 90.3
+  Recent: 7/7 | Historical: 72.2%
+  Last 7: [10.0, 9.0, 9.0, 10.0, 10.0, 10.0, 10.0]
+
+Jalen Brunson (New York Knicks)
+  points UNDER 32.5
+  Odds: 1.4308198597796538x | Score: 89.8
+  Recent: 7/7 | Historical: 69.4%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Jalen Brunson (New York Knicks)
+  points OVER 24.5
+  Odds: 1.325556733828208x | Score: 89.2
+  Recent: 6/7 | Historical: 77.8%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Mikal Bridges (New York Knicks)
+  rebounds OVER 2.5
+  Odds: 1.302761855132882x | Score: 88.6
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [6.0, 8.0, 9.0, 0.0, 5.0, 5.0, 5.0]
+
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+James Harden (Los Angeles Clippers)
+  points UNDER 31.5
+  Odds: 1.4775413711583925x | Score: 88.5
+  Recent: 6/7 | Historical: 80.6%
+  Last 7: [32.0, 19.0, 31.0, 23.0, 18.0, 20.0, 21.0]
+
+James Harden (Los Angeles Clippers)
+  fg attempted UNDER 20.5
+  Odds: 1.4607069821793748x | Score: 87.5
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [28.0, 20.0, 13.0, 17.0, 15.0, 14.0, 14.0]
+
+John Collins (Los Angeles Clippers)
+  points UNDER 18.5
+  Odds: 1.3802622498274673x | Score: 86.6
+  Recent: 5/7 | Historical: 86.8%
+  Last 7: [3.0, 25.0, 16.0, 18.0, 18.0, 22.0, 8.0]
+
+John Collins (Los Angeles Clippers)
+  rebounds UNDER 7.5
+  Odds: 1.4858841010401187x | Score: 85.8
+  Recent: 5/7 | Historical: 89.5%
+  Last 7: [5.0, 7.0, 4.0, 10.0, 4.0, 2.0, 11.0]
+
+Kris Dunn (Los Angeles Clippers)
+  fg attempted UNDER 8.5
+  Odds: 1.3900472616068946x | Score: 85.5
+  Recent: 5/7 | Historical: 82.1%
+  Last 7: [6.0, 3.0, 6.0, 9.0, 7.0, 10.0, 4.0]
+
+Bub Carrington (Washington Wizards)
+  assists OVER 3.5
+  Odds: 1.339405304045004x | Score: 85.1
+  Recent: 7/7 | Historical: 65.8%
+  Last 7: [7.0, 4.0, 7.0, 4.0, 4.0, 4.0, 5.0]
+
+Justin Champagnie (Washington Wizards)
+  three attempted UNDER 3.5
+  Odds: 1.292824822236587x | Score: 85.1
+  Recent: 6/7 | Historical: 88.9%
+  Last 7: [0.0, 2.0, 2.0, 5.0, 2.0, 3.0, 3.0]
+

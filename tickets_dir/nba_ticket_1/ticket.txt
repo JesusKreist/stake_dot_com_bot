@@ -1,0 +1,187 @@
+NBA TICKET #1
+================================================================================
+Total Picks: 28
+Total Odds: 3349.64x
+Games: LA Clippers - Washington Wizards, Indiana Pacers - Toronto Raptors, Philadelphia 76ers - Cleveland Cavaliers, Chicago Bulls - Utah Jazz
+================================================================================
+
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+James Harden (Los Angeles Clippers)
+  points UNDER 32.5
+  Odds: 1.3867702121758425x | Score: 93.1
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [32.0, 19.0, 31.0, 23.0, 18.0, 20.0, 21.0]
+
+Tre Johnson (Washington Wizards)
+  fg attempted UNDER 13.5
+  Odds: 1.3923698134224451x | Score: 92.8
+  Recent: 6/7 | Historical: 93.5%
+  Last 7: [15.0, 7.0, 13.0, 7.0, 11.0, 7.0, 13.0]
+
+James Harden (Los Angeles Clippers)
+  ft attempted UNDER 12.5
+  Odds: 1.3118194936376755x | Score: 92.2
+  Recent: 7/7 | Historical: 86.1%
+  Last 7: [8.0, 11.0, 8.0, 7.0, 3.0, 11.0, 10.0]
+
+Kyshawn George (Washington Wizards)
+  fg attempted OVER 8.5
+  Odds: 1.291822761917065x | Score: 92.0
+  Recent: 7/7 | Historical: 82.8%
+  Last 7: [10.0, 13.0, 13.0, 9.0, 13.0, 16.0, 13.0]
+
+John Collins (Los Angeles Clippers)
+  fg attempted UNDER 12.5
+  Odds: 1.3083867591259977x | Score: 91.6
+  Recent: 6/7 | Historical: 86.8%
+  Last 7: [4.0, 14.0, 9.0, 9.0, 12.0, 10.0, 3.0]
+
+James Harden (Los Angeles Clippers)
+  ft made UNDER 10.5
+  Odds: 1.380071763731714x | Score: 88.9
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [7.0, 10.0, 8.0, 7.0, 3.0, 9.0, 8.0]
+
+Ivica Zubac (Los Angeles Clippers)
+  rebounds UNDER 12.5
+  Odds: 1.3937282229965156x | Score: 88.8
+  Recent: 7/7 | Historical: 73.5%
+  Last 7: [11.0, 6.0, 6.0, 11.0, 11.0, 7.0, 2.0]
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+Scottie Barnes (Toronto Raptors)
+  fg attempted UNDER 18.5
+  Odds: 1.2863390789812195x | Score: 94.6
+  Recent: 6/7 | Historical: 90.0%
+  Last 7: [16.0, 19.0, 14.0, 16.0, 14.0, 14.0, 12.0]
+
+Immanuel Quickley (Toronto Raptors)
+  points UNDER 22.5
+  Odds: 1.3176966662274343x | Score: 94.2
+  Recent: 7/7 | Historical: 85.0%
+  Last 7: [18.0, 20.0, 17.0, 21.0, 16.0, 15.0, 22.0]
+
+Andrew Nembhard (Indiana Pacers)
+  fg attempted UNDER 16.5
+  Odds: 1.373437714599643x | Score: 93.5
+  Recent: 7/7 | Historical: 83.9%
+  Last 7: [14.0, 16.0, 12.0, 16.0, 10.0, 15.0, 13.0]
+
+Immanuel Quickley (Toronto Raptors)
+  fg made OVER 4.5
+  Odds: 1.3010668748373668x | Score: 92.2
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [8.0, 6.0, 6.0, 8.0, 5.0, 5.0, 5.0]
+
+Jamal Shead (Toronto Raptors)
+  three attempted UNDER 6.5
+  Odds: 1.2799180852425445x | Score: 90.6
+  Recent: 6/7 | Historical: 92.7%
+  Last 7: [4.0, 7.0, 6.0, 2.0, 2.0, 5.0, 4.0]
+
+Jamal Shead (Toronto Raptors)
+  fg attempted UNDER 10.5
+  Odds: 1.5223017202009437x | Score: 90.3
+  Recent: 6/7 | Historical: 90.2%
+  Last 7: [5.0, 15.0, 8.0, 7.0, 3.0, 7.0, 8.0]
+
+Scottie Barnes (Toronto Raptors)
+  fg attempted OVER 13.5
+  Odds: 1.3559322033898304x | Score: 90.2
+  Recent: 6/7 | Historical: 77.5%
+  Last 7: [16.0, 19.0, 14.0, 16.0, 14.0, 14.0, 12.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+Tyrese Maxey (Philadelphia 76ers)
+  three attempted UNDER 11.5
+  Odds: 1.2838618564642443x | Score: 95.0
+  Recent: 7/7 | Historical: 86.1%
+  Last 7: [9.0, 7.0, 8.0, 10.0, 9.0, 9.0, 10.0]
+
+Tyrese Maxey (Philadelphia 76ers)
+  fg made OVER 7.5
+  Odds: 1.292156609381057x | Score: 93.7
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [10.0, 13.0, 10.0, 9.0, 10.0, 14.0, 14.0]
+
+Joel Embiid (Philadelphia 76ers)
+  rebounds UNDER 10.5
+  Odds: 1.3515339910798756x | Score: 92.6
+  Recent: 7/7 | Historical: 95.0%
+  Last 7: [8.0, 9.0, 7.0, 10.0, 10.0, 4.0, 10.0]
+
+Jarrett Allen (Cleveland Cavaliers)
+  turnovers UNDER 2.5
+  Odds: 1.2919896640826873x | Score: 92.3
+  Recent: 7/7 | Historical: 93.1%
+  Last 7: [2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0]
+
+Evan Mobley (Cleveland Cavaliers)
+  points OVER 13.5
+  Odds: 1.3437248051599033x | Score: 90.6
+  Recent: 6/7 | Historical: 85.7%
+  Last 7: [15.0, 24.0, 19.0, 20.0, 15.0, 8.0, 16.0]
+
+Tyrese Maxey (Philadelphia 76ers)
+  points OVER 22.5
+  Odds: 1.3145786775338504x | Score: 90.5
+  Recent: 6/7 | Historical: 83.3%
+  Last 7: [33.0, 38.0, 29.0, 22.0, 28.0, 36.0, 34.0]
+
+De'Andre Hunter (Cleveland Cavaliers)
+  fg attempted OVER 6.5
+  Odds: 1.4869888475836432x | Score: 90.1
+  Recent: 5/7 | Historical: 94.4%
+  Last 7: [5.0, 5.0, 11.0, 9.0, 8.0, 12.0, 9.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+Matas Buzelis (Chicago Bulls)
+  three attempted UNDER 8.5
+  Odds: 1.314060446780552x | Score: 94.3
+  Recent: 6/7 | Historical: 97.4%
+  Last 7: [7.0, 7.0, 7.0, 4.0, 8.0, 8.0, 9.0]
+
+Ayo Dosunmu (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.3745704467353952x | Score: 92.1
+  Recent: 7/7 | Historical: 90.9%
+  Last 7: [4.0, 4.0, 1.0, 3.0, 4.0, 3.0, 4.0]
+
+Coby White (Chicago Bulls)
+  points UNDER 25.5
+  Odds: 1.2828736369467608x | Score: 91.6
+  Recent: 7/7 | Historical: 94.4%
+  Last 7: [22.0, 5.0, 0.0, 16.0, 13.0, 24.0, 21.0]
+
+Matas Buzelis (Chicago Bulls)
+  points UNDER 21.5
+  Odds: 1.3092432573972244x | Score: 91.4
+  Recent: 6/7 | Historical: 89.7%
+  Last 7: [19.0, 15.0, 20.0, 26.0, 17.0, 21.0, 19.0]
+
+Keyonte George (Utah Jazz)
+  three attempted UNDER 10.5
+  Odds: 1.2799180852425445x | Score: 90.4
+  Recent: 6/7 | Historical: 89.5%
+  Last 7: [8.0, 2.0, 4.0, 9.0, 2.0, 9.0, 12.0]
+
+Lauri Markkanen (Utah Jazz)
+  points OVER 20.5
+  Odds: 1.2774655084312723x | Score: 90.3
+  Recent: 7/7 | Historical: 75.8%
+  Last 7: [28.0, 33.0, 29.0, 22.0, 35.0, 22.0, 29.0]
+
+Coby White (Chicago Bulls)
+  fg attempted UNDER 17.5
+  Odds: 1.3468013468013467x | Score: 90.3
+  Recent: 7/7 | Historical: 88.9%
+  Last 7: [15.0, 7.0, 0.0, 12.0, 12.0, 13.0, 13.0]
+

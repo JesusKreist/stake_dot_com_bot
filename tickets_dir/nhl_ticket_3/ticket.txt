@@ -1,0 +1,159 @@
+================================================================================
+  NHL TICKET 3 - 9 Games
+================================================================================
+  Total Picks: 27 | Combined Odds: 251.44x
+================================================================================
+
+Game 1: Carolina Hurricanes - Seattle Kraken
+--------------------------------------------------------------------------------
+  1. Jared McCann (Seattle Kraken)
+     POINTS OVER 0.5
+     Score: 73.8 | Odds: 1.73x | Hit Rate: 72.2% (Recent: 5/5)
+     Last 5 games: [1, 2, 1, 1, 1]
+
+  2. Sean Walker (Carolina Hurricanes)
+     SHOTS OVER 0.5
+     Score: 91.6 | Odds: 1.12x | Hit Rate: 88.6% (Recent: 5/5)
+     Last 5 games: [2, 1, 3, 3, 1]
+
+  3. Taylor Hall (Carolina Hurricanes)
+     SHOTS OVER 0.5
+     Score: 82.9 | Odds: 1.17x | Hit Rate: 79.5% (Recent: 5/5)
+     Last 5 games: [3, 2, 4, 1, 2]
+
+Game 2: Pittsburgh Penguins - Calgary Flames
+--------------------------------------------------------------------------------
+  1. Rickard Rakell (Pittsburgh Penguins)
+     SHOTS OVER 1.5
+     Score: 74.0 | Odds: 1.31x | Hit Rate: 72.7% (Recent: 4/5)
+     Last 5 games: [4, 5, 6, 4, 1]
+
+  2. MacKenzie Weegar (Calgary Flames)
+     SHOTS OVER 0.5
+     Score: 80.7 | Odds: 1.13x | Hit Rate: 81.8% (Recent: 4/5)
+     Last 5 games: [1, 2, 0, 4, 4]
+
+  3. Bryan Rust (Pittsburgh Penguins)
+     SHOTS OVER 1.5
+     Score: 71.5 | Odds: 1.31x | Hit Rate: 72.5% (Recent: 4/5)
+     Last 5 games: [2, 4, 5, 2, 1]
+
+Game 3: Colorado Avalanche - Columbus Blue Jackets
+--------------------------------------------------------------------------------
+  1. Brent Burns (Colorado Avalanche)
+     SHOTS OVER 1.5
+     Score: 75.2 | Odds: 1.49x | Hit Rate: 69.8% (Recent: 5/5)
+     Last 5 games: [5, 4, 2, 2, 3]
+
+  2. Kirill Marchenko (Columbus Blue Jackets)
+     SHOTS OVER 1.5
+     Score: 86.8 | Odds: 1.23x | Hit Rate: 79.5% (Recent: 5/5)
+     Last 5 games: [4, 4, 4, 2, 5]
+
+  3. Zach Werenski (Columbus Blue Jackets)
+     SHOTS OVER 1.5
+     Score: 85.1 | Odds: 1.18x | Hit Rate: 89.7% (Recent: 4/5)
+     Last 5 games: [1, 2, 2, 5, 4]
+
+Game 4: Buffalo Sabres - Anaheim Ducks
+--------------------------------------------------------------------------------
+  1. Jason Zucker (Buffalo Sabres)
+     SHOTS OVER 0.5
+     Score: 83.8 | Odds: 1.11x | Hit Rate: 91.3% (Recent: 4/5)
+     Last 5 games: [3, 0, 2, 5, 3]
+
+  2. Alex Tuch (Buffalo Sabres)
+     SHOTS OVER 1.5
+     Score: 74.0 | Odds: 1.35x | Hit Rate: 80.5% (Recent: 4/5)
+     Last 5 games: [1, 3, 5, 2, 2]
+
+  3. Jacob Trouba (Anaheim Ducks)
+     SHOTS OVER 0.5
+     Score: 75.6 | Odds: 1.16x | Hit Rate: 75.0% (Recent: 4/5)
+     Last 5 games: [0, 2, 3, 6, 3]
+
+Game 5: Ottawa Senators - Florida Panthers
+--------------------------------------------------------------------------------
+  1. Drake Batherson (Ottawa Senators)
+     SHOTS OVER 0.5
+     Score: 93.1 | Odds: 1.11x | Hit Rate: 95.0% (Recent: 5/5)
+     Last 5 games: [3, 4, 1, 3, 1]
+
+  2. Dylan Cozens (Ottawa Senators)
+     SHOTS OVER 0.5
+     Score: 89.4 | Odds: 1.11x | Hit Rate: 81.4% (Recent: 5/5)
+     Last 5 games: [3, 2, 4, 2, 4]
+
+  3. Evan Rodrigues (Florida Panthers)
+     SHOTS OVER 1.5
+     Score: 74.6 | Odds: 1.45x | Hit Rate: 67.4% (Recent: 5/5)
+     Last 5 games: [2, 4, 2, 2, 2]
+
+Game 6: Minnesota Wild - New York Islanders
+--------------------------------------------------------------------------------
+  1. Matt Boldy (Minnesota Wild)
+     SHOTS OVER 1.5
+     Score: 80.3 | Odds: 1.17x | Hit Rate: 82.2% (Recent: 4/5)
+     Last 5 games: [1, 3, 5, 2, 4]
+
+  2. Vladimir Tarasenko (Minnesota Wild)
+     SHOTS OVER 0.5
+     Score: 75.9 | Odds: 1.20x | Hit Rate: 78.9% (Recent: 4/5)
+     Last 5 games: [1, 3, 0, 3, 1]
+
+  3. Quinn Hughes (Minnesota Wild)
+     SHOTS OVER 1.5
+     Score: 77.9 | Odds: 1.30x | Hit Rate: 66.7% (Recent: 5/5)
+     Last 5 games: [4, 4, 2, 2, 3]
+
+Game 7: Nashville Predators - Chicago Blackhawks
+--------------------------------------------------------------------------------
+  1. Tyler Bertuzzi (Chicago Blackhawks)
+     SHOTS OVER 0.5
+     Score: 92.3 | Odds: 1.12x | Hit Rate: 90.2% (Recent: 5/5)
+     Last 5 games: [4, 6, 5, 3, 4]
+
+  2. Artyom Levshunov (Chicago Blackhawks)
+     SHOTS OVER 0.5
+     Score: 79.6 | Odds: 1.22x | Hit Rate: 78.6% (Recent: 5/5)
+     Last 5 games: [2, 1, 3, 2, 2]
+
+  3. Roman Josi (Nashville Predators)
+     SHOTS OVER 1.5
+     Score: 73.1 | Odds: 1.29x | Hit Rate: 77.4% (Recent: 4/5)
+     Last 5 games: [4, 0, 3, 3, 2]
+
+Game 8: Edmonton Oilers - Los Angeles Kings
+--------------------------------------------------------------------------------
+  1. Warren Foegele (Los Angeles Kings)
+     SHOTS OVER 0.5
+     Score: 81.0 | Odds: 1.12x | Hit Rate: 77.1% (Recent: 5/5)
+     Last 5 games: [1, 1, 5, 1, 2]
+
+  2. Andrei Kuzmenko (Los Angeles Kings)
+     SHOTS OVER 0.5
+     Score: 78.5 | Odds: 1.20x | Hit Rate: 73.7% (Recent: 5/5)
+     Last 5 games: [2, 2, 1, 2, 1]
+
+  3. Zach Hyman (Edmonton Oilers)
+     SHOTS OVER 1.5
+     Score: 84.8 | Odds: 1.18x | Hit Rate: 80.0% (Recent: 5/5)
+     Last 5 games: [2, 4, 3, 4, 2]
+
+Game 9: San Jose Sharks - Dallas Stars
+--------------------------------------------------------------------------------
+  1. Jason Robertson (Dallas Stars)
+     SHOTS OVER 1.5
+     Score: 85.5 | Odds: 1.17x | Hit Rate: 90.9% (Recent: 4/5)
+     Last 5 games: [1, 2, 2, 3, 8]
+
+  2. Macklin Celebrini (San Jose Sharks)
+     POINTS OVER 0.5
+     Score: 81.9 | Odds: 1.22x | Hit Rate: 79.1% (Recent: 5/5)
+     Last 5 games: [3, 1, 1, 2, 3]
+
+  3. Igor Chernyshov (San Jose Sharks)
+     SHOTS OVER 0.5
+     Score: 79.3 | Odds: 1.17x | Hit Rate: 90.0% (Recent: 4/5)
+     Last 5 games: [1, 0, 1, 1, 2]
+

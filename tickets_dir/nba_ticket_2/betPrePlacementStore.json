@@ -1,0 +1,293 @@
+{
+  "type": "sports-multi",
+  "outcomes": [
+    {
+      "odds": 1.3489815189531904,
+      "isActive": true,
+      "marketId": "c367de46-0470-48b8-803a-9430cddb0bcd",
+      "lineId": "dc48af8b-5e6c-45ec-8829-da28a935342a",
+      "swishStatId": "143",
+      "player": "Jalen Brunson",
+      "stat": "fg attempted",
+      "line": 25.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3840830449826989,
+      "isActive": true,
+      "marketId": "baaf6780-ecdf-413a-9c1a-c2b81e5e45d3",
+      "lineId": "ba900261-ed42-4c3c-8402-9de676dc3049",
+      "swishStatId": "143",
+      "player": "Russell Westbrook",
+      "stat": "fg attempted",
+      "line": 16.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.2876641771825907,
+      "isActive": true,
+      "marketId": "065f6018-dbb5-454e-803b-f9a1e090527b",
+      "lineId": "0782c5e2-12f6-4385-a437-c31ba6cfba31",
+      "swishStatId": "100",
+      "player": "Jalen Brunson",
+      "stat": "points",
+      "line": 34.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.2863390789812195,
+      "isActive": true,
+      "marketId": "89ceb3f3-7db2-4b96-94b3-fb8aa9201961",
+      "lineId": "5515c9eb-1905-46f8-991c-9e207dffe87f",
+      "swishStatId": "142",
+      "player": "Jalen Brunson",
+      "stat": "fg made",
+      "line": 8.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3087292239235702,
+      "isActive": true,
+      "marketId": "89ceb3f3-7db2-4b96-94b3-fb8aa9201961",
+      "lineId": "36b05035-df38-4f9c-bb06-b9f2c5fbe233",
+      "swishStatId": "142",
+      "player": "Jalen Brunson",
+      "stat": "fg made",
+      "line": 12.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.2998830105290524,
+      "isActive": true,
+      "marketId": "a632e88b-aefd-468a-b0ca-c35e7fbb261f",
+      "lineId": "83621d9e-d50e-4775-93fd-00a5928f0be1",
+      "swishStatId": "146",
+      "player": "Miles McBride",
+      "stat": "three attempted",
+      "line": 4.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.347164219318335,
+      "isActive": true,
+      "marketId": "7719343a-240a-4d09-a52f-041c7963fb31",
+      "lineId": "1e2815bb-ed5b-4410-b982-a98e5d3b062a",
+      "swishStatId": "143",
+      "player": "Jordan Clarkson",
+      "stat": "fg attempted",
+      "line": 4.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.426330052774212,
+      "isActive": true,
+      "marketId": "9efa2ad7-e70d-4608-af92-3450afd2471d",
+      "lineId": "a3293c79-ece2-4882-bc81-efb8a6226d53",
+      "swishStatId": "143",
+      "player": "Scottie Barnes",
+      "stat": "fg attempted",
+      "line": 17.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.322226629644321,
+      "isActive": true,
+      "marketId": "2bb7a3f8-f4cf-4dad-a6b6-8afc815accc4",
+      "lineId": "38dbce86-2313-4a0b-ad33-9184ae025055",
+      "swishStatId": "143",
+      "player": "Jamal Shead",
+      "stat": "fg attempted",
+      "line": 11.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4773230905599055,
+      "isActive": true,
+      "marketId": "a718773e-39fb-4694-b858-02167e6a7837",
+      "lineId": "6df6ac48-48f8-478d-bdaf-dbd61fefec6d",
+      "swishStatId": "146",
+      "player": "Immanuel Quickley",
+      "stat": "three attempted",
+      "line": 6.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3674278681799537,
+      "isActive": true,
+      "marketId": "d5cce873-6cb5-457e-ae00-f279e4473ce8",
+      "lineId": "116868cf-cb46-44f3-8955-1e854d9e79ed",
+      "swishStatId": "100",
+      "player": "Jamal Shead",
+      "stat": "points",
+      "line": 13.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.339764201500536,
+      "isActive": true,
+      "marketId": "80682eb9-9e60-40c2-8d89-7d9d52aa7cdd",
+      "lineId": "3d928584-ac2d-400e-b903-943b366efe34",
+      "swishStatId": "100",
+      "player": "Immanuel Quickley",
+      "stat": "points",
+      "line": 14.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.347164219318335,
+      "isActive": true,
+      "marketId": "db0f4da2-5479-4a10-b35b-1804d7975258",
+      "lineId": "a48baac5-288f-47ed-9d40-5bcc0a3da75b",
+      "swishStatId": "103",
+      "player": "Jamal Shead",
+      "stat": "rebounds",
+      "line": 3.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3533631073216945,
+      "isActive": true,
+      "marketId": "df842832-aa06-4ee9-96d3-99a12e9474ca",
+      "lineId": "750b2862-edb3-47be-938a-c5e0c2049561",
+      "swishStatId": "100",
+      "player": "Lauri Markkanen",
+      "stat": "points",
+      "line": 21.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.4326647564469914,
+      "isActive": true,
+      "marketId": "e8756188-0586-4106-9787-75311e531de4",
+      "lineId": "e9cb2173-6a71-4cae-bacc-68bfd620efcb",
+      "swishStatId": "143",
+      "player": "Tre Jones",
+      "stat": "fg attempted",
+      "line": 6.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.5053439710973957,
+      "isActive": true,
+      "marketId": "17e58f6d-854f-42aa-b257-78bd9db8ae93",
+      "lineId": "418d654f-e819-4421-b3e6-8a5a3e5627c6",
+      "swishStatId": "143",
+      "player": "Coby White",
+      "stat": "fg attempted",
+      "line": 16.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.2990387113535982,
+      "isActive": true,
+      "marketId": "0ef82797-3bf3-41d4-8b77-83c83afebd22",
+      "lineId": "73736998-f652-42dd-acc4-78829afffa77",
+      "swishStatId": "103",
+      "player": "Isaac Okoro",
+      "stat": "rebounds",
+      "line": 4.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4952153110047848,
+      "isActive": true,
+      "marketId": "be47e3e7-5df5-46d9-b777-a37a2654a40f",
+      "lineId": "4581ba28-f60f-4b7c-9bf4-621123d1484d",
+      "swishStatId": "146",
+      "player": "Keyonte George",
+      "stat": "three attempted",
+      "line": 9.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3493455673998112,
+      "isActive": true,
+      "marketId": "afaab8b4-10f9-46a9-a163-73cf408c367b",
+      "lineId": "d71344b5-fa38-4f55-b91d-e44f68ef8c89",
+      "swishStatId": "142",
+      "player": "Keyonte George",
+      "stat": "fg made",
+      "line": 9.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4184397163120568,
+      "isActive": true,
+      "marketId": "05235de5-1e31-42d5-aed9-f4ab8fbc29e4",
+      "lineId": "67ac6c33-077a-45d4-8332-68b4f28aca11",
+      "swishStatId": "143",
+      "player": "Keyonte George",
+      "stat": "fg attempted",
+      "line": 20.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3245033112582782,
+      "isActive": true,
+      "marketId": "e8b826e9-5a19-477f-bb36-de0030c980c6",
+      "lineId": "dba8efff-8a40-4784-925b-dd52be5d989b",
+      "swishStatId": "143",
+      "player": "Jeremiah Fears",
+      "stat": "fg attempted",
+      "line": 7.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3308490817141336,
+      "isActive": true,
+      "marketId": "e9b3e2e3-3932-4bc8-ba32-286833a36f69",
+      "lineId": "61417311-6428-4ed9-a248-4285ff53b024",
+      "swishStatId": "100",
+      "player": "Jeremiah Fears",
+      "stat": "points",
+      "line": 8.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3274923669188903,
+      "isActive": true,
+      "marketId": "8e6dfc5e-336a-485e-814e-e042a07f6130",
+      "lineId": "4e1b36d0-f598-41a1-817c-86b217920fa7",
+      "swishStatId": "143",
+      "player": "Nic Claxton",
+      "stat": "fg attempted",
+      "line": 11.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3292569453675396,
+      "isActive": true,
+      "marketId": "e2712866-c509-472d-9869-30adca3618c2",
+      "lineId": "f8cf7be7-0f04-4468-8151-0a9c190f270f",
+      "swishStatId": "143",
+      "player": "Saddiq Bey",
+      "stat": "fg attempted",
+      "line": 8.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3526308670363858,
+      "isActive": true,
+      "marketId": "375b7bb3-28ea-487f-b490-4e1a74d67360",
+      "lineId": "5697225f-fa07-4364-92e9-478b63b97998",
+      "swishStatId": "100",
+      "player": "Nic Claxton",
+      "stat": "points",
+      "line": 16.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3290802764486975,
+      "isActive": true,
+      "marketId": "39e9ed11-3229-42be-aada-2f6850fd9356",
+      "lineId": "d016915a-122d-4d42-a1fc-be2e6fe1ff87",
+      "swishStatId": "142",
+      "player": "Saddiq Bey",
+      "stat": "fg made",
+      "line": 3.5,
+      "bet_type": "OVER"
+    }
+  ],
+  "totalOdds": 2957.08,
+  "stake": 0
+}

@@ -1,0 +1,282 @@
+{
+  "type": "sports-multi",
+  "outcomes": [
+    {
+      "odds": 1.2828736369467608,
+      "isActive": true,
+      "marketId": "05235de5-1e31-42d5-aed9-f4ab8fbc29e4",
+      "lineId": "17fa010c-b6e3-41c1-a353-f35f5ff68903",
+      "swishStatId": "143",
+      "player": "Keyonte George",
+      "stat": "fg attempted",
+      "line": 21.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.6559032952475576,
+      "isActive": true,
+      "marketId": "17e58f6d-854f-42aa-b257-78bd9db8ae93",
+      "lineId": "d61aa986-1a0f-4180-88c2-e5a54e879f10",
+      "swishStatId": "143",
+      "player": "Coby White",
+      "stat": "fg attempted",
+      "line": 15.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3900472616068946,
+      "isActive": true,
+      "marketId": "e4aea37d-1890-4aa1-93e0-37eed491db16",
+      "lineId": "25a67916-b6c8-4fbb-95bc-9c9fea9ad774",
+      "swishStatId": "142",
+      "player": "Lauri Markkanen",
+      "stat": "fg made",
+      "line": 7.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3954786491766675,
+      "isActive": true,
+      "marketId": "433919ef-6eea-4c48-be66-ddca85ef1a7d",
+      "lineId": "55588703-e8e3-43eb-a930-9131fa905f57",
+      "swishStatId": "143",
+      "player": "Ayo Dosunmu",
+      "stat": "fg attempted",
+      "line": 8.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.349527665317139,
+      "isActive": true,
+      "marketId": "fe7b2709-5289-42a1-b1a3-5c91470fac72",
+      "lineId": "9e1a8bec-f30c-4709-8daf-2f1b87c294c0",
+      "swishStatId": "100",
+      "player": "Coby White",
+      "stat": "points",
+      "line": 24.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3048016701461378,
+      "isActive": true,
+      "marketId": "3886eece-63bb-4cfa-b28f-2fce030fecb8",
+      "lineId": "fb690f67-c239-4fc0-b14f-1bb9ccb0e6a0",
+      "swishStatId": "142",
+      "player": "Matas Buzelis",
+      "stat": "fg made",
+      "line": 4.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 2.099517111064455,
+      "isActive": true,
+      "marketId": "e8b826e9-5a19-477f-bb36-de0030c980c6",
+      "lineId": "a654a35d-f36b-4819-9e93-15520060a83b",
+      "swishStatId": "143",
+      "player": "Jeremiah Fears",
+      "stat": "fg attempted",
+      "line": 10.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.2797542871768621,
+      "isActive": true,
+      "marketId": "b1ab3703-6a27-49b3-9deb-3d2e02c066c4",
+      "lineId": "d823e745-0745-424c-93f4-1db9272f9ac6",
+      "swishStatId": "146",
+      "player": "Michael Porter Jr.",
+      "stat": "three attempted",
+      "line": 7.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.5234613040828764,
+      "isActive": true,
+      "marketId": "4dec0913-bbbb-42b0-a1dd-db2387e6fef1",
+      "lineId": "e915b619-7a8e-4967-825c-62eeed01a790",
+      "swishStatId": "105",
+      "player": "Jeremiah Fears",
+      "stat": "turnovers",
+      "line": 1.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.5969338869370808,
+      "isActive": true,
+      "marketId": "db323465-ccbd-4039-a528-d1037802f912",
+      "lineId": "e393f7fb-e7e3-41e7-8ca0-f96ccb70d2b5",
+      "swishStatId": "146",
+      "player": "Saddiq Bey",
+      "stat": "three attempted",
+      "line": 3.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3854253255749516,
+      "isActive": true,
+      "marketId": "a19d05c0-44bb-4802-ac71-1a70fd551b53",
+      "lineId": "dccaed11-923a-4042-b81e-afe35c26c398",
+      "swishStatId": "143",
+      "player": "Zion Williamson",
+      "stat": "fg attempted",
+      "line": 16.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3266118333775536,
+      "isActive": true,
+      "marketId": "85e882fc-9824-4b9e-8952-8c836dd2ecfc",
+      "lineId": "299ac57d-2dc3-4139-931e-4221d200f79a",
+      "swishStatId": "105",
+      "player": "Michael Porter Jr.",
+      "stat": "turnovers",
+      "line": 1.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3910140492418974,
+      "isActive": true,
+      "marketId": "6ced511b-a47b-4c73-839a-642c13888388",
+      "lineId": "b039a6f3-6888-4113-aaf9-5a10acdc6db8",
+      "swishStatId": "143",
+      "player": "Mikal Bridges",
+      "stat": "fg attempted",
+      "line": 9.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.3183915622940015,
+      "isActive": true,
+      "marketId": "5a0f92e2-6f97-4932-b868-c1154648de26",
+      "lineId": "dfa35c89-8fcc-4df1-b3af-c9ddc6315b77",
+      "swishStatId": "100",
+      "player": "Mikal Bridges",
+      "stat": "points",
+      "line": 10.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.5232292460015233,
+      "isActive": true,
+      "marketId": "89ceb3f3-7db2-4b96-94b3-fb8aa9201961",
+      "lineId": "8cc81177-25fd-4333-92e8-d1707cc346d8",
+      "swishStatId": "142",
+      "player": "Jalen Brunson",
+      "stat": "fg made",
+      "line": 11.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4308198597796538,
+      "isActive": true,
+      "marketId": "065f6018-dbb5-454e-803b-f9a1e090527b",
+      "lineId": "11206635-4b23-4d75-bdcb-c20f62f43e7a",
+      "swishStatId": "100",
+      "player": "Jalen Brunson",
+      "stat": "points",
+      "line": 32.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.325556733828208,
+      "isActive": true,
+      "marketId": "065f6018-dbb5-454e-803b-f9a1e090527b",
+      "lineId": "9f4be773-061f-4d56-a0bc-4f9493b41b7e",
+      "swishStatId": "100",
+      "player": "Jalen Brunson",
+      "stat": "points",
+      "line": 24.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.302761855132882,
+      "isActive": true,
+      "marketId": "2df3b40a-9372-4cb3-aa8b-288f46972917",
+      "lineId": "bc00d94d-2f6c-485b-95cd-bdd35bb2c2de",
+      "swishStatId": "103",
+      "player": "Mikal Bridges",
+      "stat": "rebounds",
+      "line": 2.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.4775413711583925,
+      "isActive": true,
+      "marketId": "72e881c0-d14b-4277-87d8-adb409f43a4a",
+      "lineId": "c6585a14-dadb-49b7-aab9-f4bbd2ee2398",
+      "swishStatId": "100",
+      "player": "James Harden",
+      "stat": "points",
+      "line": 31.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4607069821793748,
+      "isActive": true,
+      "marketId": "8b002d9e-0fa9-4f77-9ee0-6f33dd621f3d",
+      "lineId": "c2917aac-34f6-4de8-8788-008d5c9a1c00",
+      "swishStatId": "143",
+      "player": "James Harden",
+      "stat": "fg attempted",
+      "line": 20.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3802622498274673,
+      "isActive": true,
+      "marketId": "b8e89a3d-b444-4d23-809d-d373fc22f995",
+      "lineId": "da427d5d-e8c0-4038-b9d6-063aa90e7fad",
+      "swishStatId": "100",
+      "player": "John Collins",
+      "stat": "points",
+      "line": 18.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.4858841010401187,
+      "isActive": true,
+      "marketId": "695db8c7-2ae3-4c73-9577-c800ea82cc7f",
+      "lineId": "1e798584-8aad-425f-bbd6-8c2da6a79f5f",
+      "swishStatId": "103",
+      "player": "John Collins",
+      "stat": "rebounds",
+      "line": 7.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.3900472616068946,
+      "isActive": true,
+      "marketId": "80fd1409-d68c-4a4a-a779-b528945dd528",
+      "lineId": "a59d7066-d34b-4ef3-bdc0-ec12bbd03b27",
+      "swishStatId": "143",
+      "player": "Kris Dunn",
+      "stat": "fg attempted",
+      "line": 8.5,
+      "bet_type": "UNDER"
+    },
+    {
+      "odds": 1.339405304045004,
+      "isActive": true,
+      "marketId": "ab8e8bf0-bd3e-4435-bfd3-969868f193b6",
+      "lineId": "79eb1b60-89fe-4dd5-b210-c3de9fd48982",
+      "swishStatId": "102",
+      "player": "Bub Carrington",
+      "stat": "assists",
+      "line": 3.5,
+      "bet_type": "OVER"
+    },
+    {
+      "odds": 1.292824822236587,
+      "isActive": true,
+      "marketId": "c2cfbaf7-3a1f-4ae4-9359-65fd09528234",
+      "lineId": "1fa78a51-fee7-4f09-a672-3ba4687b7d1d",
+      "swishStatId": "146",
+      "player": "Justin Champagnie",
+      "stat": "three attempted",
+      "line": 3.5,
+      "bet_type": "UNDER"
+    }
+  ],
+  "totalOdds": 6410.76,
+  "stake": 0
+}

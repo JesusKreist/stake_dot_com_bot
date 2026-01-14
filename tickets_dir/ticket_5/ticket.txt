@@ -1,0 +1,138 @@
+================================================================================
+  TICKET 5 - Strategic Mix
+================================================================================
+  Total Picks: 30 | Combined Odds: 8553.2x
+================================================================================
+
+Game: Boston Celtics - San Antonio Spurs
+--------------------------------------------------------------------------------
+  1. Stephon Castle - FGM UNDER 7.5
+     Score: 85.4 | Odds: 1.3506212857914641 | Hit Rate: 71.4% (Recent: 5/5)
+     Avg: 6.1 | Recent 5: 4.6 | StdDev: 2.31
+
+  2. De'Aaron Fox - FGA OVER 13.5
+     Score: 84.2 | Odds: 1.4154281670205238 | Hit Rate: 78.6% (Recent: 5/5)
+     Avg: 16.3 | Recent 5: 17.2 | StdDev: 4.15
+
+  3. Stephon Castle - FGM OVER 4.5
+     Score: 84.1 | Odds: 1.3073604392731075 | Hit Rate: 82.1% (Recent: 4/5)
+     Avg: 6.1 | Recent 5: 4.6 | StdDev: 2.31
+
+  4. Stephon Castle - FGA UNDER 15.5
+     Score: 79.5 | Odds: 1.3388673182487616 | Hit Rate: 75.0% (Recent: 4/5)
+     Avg: 12.6 | Recent 5: 12.2 | StdDev: 3.39
+
+  5. Julian Champagnie - FGM OVER 2.5
+     Score: 77.0 | Odds: 1.339405304045004 | Hit Rate: 62.2% (Recent: 4/5)
+     Avg: 3.6 | Recent 5: 6.2 | StdDev: 2.38
+
+Game: Chicago Bulls - Dallas Mavericks
+--------------------------------------------------------------------------------
+  6. Max Christie - FGA UNDER 13.5
+     Score: 92.1 | Odds: 1.4088475626937165 | Hit Rate: 97.2% (Recent: 5/5)
+     Avg: 8.7 | Recent 5: 12 | StdDev: 3.47
+
+  7. Naji Marshall - FGA UNDER 14.5
+     Score: 92.1 | Odds: 1.3170025023047545 | Hit Rate: 97.4% (Recent: 5/5)
+     Avg: 9 | Recent 5: 10.2 | StdDev: 3.49
+
+  8. Naji Marshall - FGM UNDER 7.5
+     Score: 90.8 | Odds: 1.289324394017535 | Hit Rate: 86.8% (Recent: 5/5)
+     Avg: 4.9 | Recent 5: 6 | StdDev: 2.32
+
+  9. Cooper Flagg - FGA UNDER 21.5
+     Score: 90.1 | Odds: 1.3561160835367507 | Hit Rate: 94.6% (Recent: 5/5)
+     Avg: 15.2 | Recent 5: 16 | StdDev: 4.01
+
+  10. Cooper Flagg - FGM UNDER 10.5
+     Score: 89.1 | Odds: 1.3607293509320997 | Hit Rate: 86.5% (Recent: 5/5)
+     Avg: 7.3 | Recent 5: 6.4 | StdDev: 3.09
+
+Game: Cleveland Cavaliers - Minnesota Timberwolves
+--------------------------------------------------------------------------------
+  11. De'Andre Hunter - FGM OVER 2.5
+     Score: 91.3 | Odds: 1.2926577042399174 | Hit Rate: 88.2% (Recent: 5/5)
+     Avg: 4.9 | Recent 5: 4.6 | StdDev: 2.31
+
+  12. Evan Mobley - FGM UNDER 8.5
+     Score: 90.5 | Odds: 1.3511687609782461 | Hit Rate: 84.8% (Recent: 5/5)
+     Avg: 6.7 | Recent 5: 6.4 | StdDev: 2.08
+
+  13. De'Andre Hunter - FGA OVER 7.5
+     Score: 90.4 | Odds: 1.4392630972941853 | Hit Rate: 91.2% (Recent: 5/5)
+     Avg: 11.4 | Recent 5: 9.8 | StdDev: 3.28
+
+  14. Donte DiVincenzo - FGA UNDER 14.5
+     Score: 87.7 | Odds: 1.348435814455232 | Hit Rate: 84.2% (Recent: 5/5)
+     Avg: 10.7 | Recent 5: 10.6 | StdDev: 3.39
+
+  15. Sam Merrill - FGM OVER 2.5
+     Score: 86.5 | Odds: 1.3633265167007498 | Hit Rate: 85.7% (Recent: 4/5)
+     Avg: 4.6 | Recent 5: 5 | StdDev: 1.77
+
+Game: Detroit Pistons - LA Clippers
+--------------------------------------------------------------------------------
+  16. Paul Reed - FGM UNDER 5.5
+     Score: 92.7 | Odds: 1.4054813773717498 | Hit Rate: 93.1% (Recent: 5/5)
+     Avg: 2.5 | Recent 5: 3.4 | StdDev: 2.43
+
+  17. Paul Reed - FGA UNDER 10.5
+     Score: 91.6 | Odds: 1.2795905310300704 | Hit Rate: 96.6% (Recent: 5/5)
+     Avg: 4.2 | Recent 5: 6.6 | StdDev: 3.57
+
+  18. Nicolas Batum - FGA OVER 2.5
+     Score: 91.5 | Odds: 1.2832028743744386 | Hit Rate: 86.1% (Recent: 5/5)
+     Avg: 4.0 | Recent 5: 4.4 | StdDev: 1.81
+
+  19. Ausar Thompson - FGM UNDER 6.5
+     Score: 91.0 | Odds: 1.354279523293608 | Hit Rate: 84.8% (Recent: 5/5)
+     Avg: 4.6 | Recent 5: 4.2 | StdDev: 1.83
+
+  20. John Collins - FGA UNDER 12.5
+     Score: 90.6 | Odds: 1.2904890953671442 | Hit Rate: 88.9% (Recent: 5/5)
+     Avg: 9.2 | Recent 5: 8.6 | StdDev: 2.75
+
+Game: Indiana Pacers - Miami Heat
+--------------------------------------------------------------------------------
+  21. Tyler Herro - FGA OVER 12.5
+     Score: 94.2 | Odds: 1.417233560090703 | Hit Rate: 100.0% (Recent: 5/5)
+     Avg: 16.3 | Recent 5: 16.2 | StdDev: 1.25
+
+  22. Johnny Furphy - FGA UNDER 7.5
+     Score: 93.1 | Odds: 1.2777919754663942 | Hit Rate: 95.0% (Recent: 5/5)
+     Avg: 3.7 | Recent 5: 3.8 | StdDev: 2.6
+
+  23. Andrew Wiggins - FGA OVER 8.5
+     Score: 91.5 | Odds: 1.3083867591259977 | Hit Rate: 93.9% (Recent: 5/5)
+     Avg: 13.2 | Recent 5: 12.2 | StdDev: 3.18
+
+  24. Norman Powell - FGM OVER 5.5
+     Score: 91.2 | Odds: 1.2963443090484834 | Hit Rate: 87.5% (Recent: 5/5)
+     Avg: 8.1 | Recent 5: 9.4 | StdDev: 2.22
+
+  25. Davion Mitchell - FGA OVER 5.5
+     Score: 90.5 | Odds: 1.4204545454545456 | Hit Rate: 88.6% (Recent: 5/5)
+     Avg: 8.0 | Recent 5: 9 | StdDev: 2.74
+
+Game: Utah Jazz - Charlotte Hornets
+--------------------------------------------------------------------------------
+  26. Isaiah Collier - FGA UNDER 9.5
+     Score: 92.4 | Odds: 1.337971635001338 | Hit Rate: 93.1% (Recent: 5/5)
+     Avg: 5.8 | Recent 5: 6.2 | StdDev: 2.57
+
+  27. Sion James - FGA OVER 2.5
+     Score: 92.0 | Odds: 1.3508037282182899 | Hit Rate: 89.5% (Recent: 5/5)
+     Avg: 4.9 | Recent 5: 3.8 | StdDev: 2.17
+
+  28. Kyle Filipowski - FGM UNDER 6.5
+     Score: 91.4 | Odds: 1.4289797084881395 | Hit Rate: 88.9% (Recent: 5/5)
+     Avg: 3.4 | Recent 5: 2.8 | StdDev: 2.35
+
+  29. Isaiah Collier - FGM UNDER 4.5
+     Score: 87.0 | Odds: 1.483019427554501 | Hit Rate: 86.2% (Recent: 4/5)
+     Avg: 3.0 | Recent 5: 3.8 | StdDev: 1.57
+
+  30. Brice Sensabaugh - FGM UNDER 6.5
+     Score: 86.6 | Odds: 1.3879250520471893 | Hit Rate: 88.9% (Recent: 4/5)
+     Avg: 3.4 | Recent 5: 5.4 | StdDev: 2.24
+

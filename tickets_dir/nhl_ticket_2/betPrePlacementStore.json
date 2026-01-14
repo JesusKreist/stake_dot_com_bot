@@ -1,0 +1,139 @@
+{
+  "outcomes": [
+    {
+      "lineId": "54e3dc3b-ea32-4768-9e74-4b61be619696",
+      "marketId": "defcf3e5-e845-4580-97b8-da46f11515e4",
+      "odds": 1.13520263367011
+    },
+    {
+      "lineId": "f999c633-11a8-46e4-b099-73f3592caa8f",
+      "marketId": "883d544f-710e-421e-ba93-3f5ea673a621",
+      "odds": 1.4602803738317758
+    },
+    {
+      "lineId": "e6ba2881-b0a9-4b27-bc13-1834b9b84dc5",
+      "marketId": "d3a9fc2d-fbf6-4326-a8e9-0ebe72ca3d21",
+      "odds": 1.1716461628588166
+    },
+    {
+      "lineId": "563f3d1d-4837-41fd-bc77-d510ed8b26dd",
+      "marketId": "58bf6b8e-9bd7-4b0b-b572-9628ef8d1b58",
+      "odds": 1.3879250520471893
+    },
+    {
+      "lineId": "9a6f040e-fa7f-48a8-9755-e354d5801188",
+      "marketId": "e4dd6d71-1e47-4fbe-a80a-445fd6d5b421",
+      "odds": 1.10803324099723
+    },
+    {
+      "lineId": "d390c91d-50cf-461f-aa51-08e6759180bd",
+      "marketId": "95922d45-0a9d-4d55-8da3-17380908a457",
+      "odds": 1.3099292638197537
+    },
+    {
+      "lineId": "4dab839d-7f11-4cfc-a0a1-ff86979a5967",
+      "marketId": "69cfdd32-2bc6-4c3e-90ac-336907f7eaaf",
+      "odds": 1.1741223435481978
+    },
+    {
+      "lineId": "dbe692ff-4dc8-4687-9b15-5c1d30adc58b",
+      "marketId": "e2ef5958-6fe2-4974-86aa-0e57793b3395",
+      "odds": 1.2017786323759165
+    },
+    {
+      "lineId": "6d348385-e5a6-4d9c-a27a-d133993ee50b",
+      "marketId": "437c8cd3-c3ae-4a56-b266-3bc732d84cbb",
+      "odds": 1.1757789535567313
+    },
+    {
+      "lineId": "a1a2e4cc-64e6-4459-9803-e74cbc13e9bc",
+      "marketId": "b076a4f4-b749-412d-b566-18095a3c5614",
+      "odds": 1.16918040453642
+    },
+    {
+      "lineId": "4aae7d01-760a-4037-ae9d-0a5d1117adfe",
+      "marketId": "ee87ee21-1b31-42e3-b8af-9a5ab3b63a61",
+      "odds": 1.1838522552385462
+    },
+    {
+      "lineId": "efb7341e-fe67-4c4b-af50-b216aacce310",
+      "marketId": "3531eb63-760d-4110-a8d7-18e89a73a2e2",
+      "odds": 1.1584800741427248
+    },
+    {
+      "lineId": "ad3c6c92-904a-4e3a-9fc3-f9dd0608925c",
+      "marketId": "b3b870a8-d36d-4ad6-95b6-1901e6801be7",
+      "odds": 1.1070519207350824
+    },
+    {
+      "lineId": "0ec9a042-abe1-41ef-9c0a-e00ebc1c2a72",
+      "marketId": "a07a8281-4d0f-4b4d-999a-d220b6d5fc09",
+      "odds": 1.212856276531231
+    },
+    {
+      "lineId": "410f9f02-17c7-4186-b175-d2e6a8d0516f",
+      "marketId": "0653dbd2-83ea-4a11-a02d-efed64f3e481",
+      "odds": 1.10803324099723
+    },
+    {
+      "lineId": "d908743b-d0d3-4c70-926b-fb338a93cb49",
+      "marketId": "906b1bfe-3886-46b5-a315-52274d28c138",
+      "odds": 1.1327594019030358
+    },
+    {
+      "lineId": "e47106d2-177a-4b7d-80be-638fad116f1a",
+      "marketId": "f2f82544-00c4-4f10-9793-1cd8760dc5be",
+      "odds": 1.1712344811431248
+    },
+    {
+      "lineId": "3a080a9c-2dd6-4d65-be47-da3ebd0d4464",
+      "marketId": "f76ebdd6-553f-427d-b755-89ea75f0e8a8",
+      "odds": 1.1984659635666346
+    },
+    {
+      "lineId": "386e5fb2-3c04-472f-b164-a8dec75a97d6",
+      "marketId": "e37c9b19-940d-43c5-ade9-c5c7bfd1414f",
+      "odds": 1.1708230886313078
+    },
+    {
+      "lineId": "550046c6-19bb-4507-8263-1c904888be3a",
+      "marketId": "50cd4c3a-d174-4264-8cd8-419c22492803",
+      "odds": 1.208313194780087
+    },
+    {
+      "lineId": "19ddfd4b-cde5-40ec-a01a-1be526eb31e6",
+      "marketId": "0e1246b9-d117-43e2-a085-0b87cb870ffa",
+      "odds": 1.1760555098200636
+    },
+    {
+      "lineId": "91d9196c-1861-48bb-9988-04f9a9f95bde",
+      "marketId": "d64471c9-536b-4e44-970b-4bfcd6ff330f",
+      "odds": 1.1810558639423645
+    },
+    {
+      "lineId": "7d80eb7d-7fab-4621-b5b8-b11ffc3d37b0",
+      "marketId": "89e835a6-e63e-41e6-a413-e3e5403f53f2",
+      "odds": 1.202212070209185
+    },
+    {
+      "lineId": "8e3463a4-f66b-443e-b9d0-4ce849ca38d8",
+      "marketId": "9d36913a-5ba6-4b82-b4dd-6a1c0f4db606",
+      "odds": 1.196888090963495
+    },
+    {
+      "lineId": "f7aa4841-791c-48f7-9b61-8b8ff544d1c9",
+      "marketId": "201648d7-5720-411a-820c-c0895f3fcf9f",
+      "odds": 1.1984659635666346
+    },
+    {
+      "lineId": "2c86e5ce-3b7a-47f2-9360-97a07fc6276c",
+      "marketId": "28631c37-58d2-4dd0-a749-29f64231efe4",
+      "odds": 1.128286133363421
+    },
+    {
+      "lineId": "27f13245-cfa6-41f6-ad1e-9d14408e2b84",
+      "marketId": "09bde758-280b-4501-9657-343a2443f3c4",
+      "odds": 1.1741223435481978
+    }
+  ]
+}

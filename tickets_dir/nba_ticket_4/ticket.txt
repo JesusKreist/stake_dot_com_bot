@@ -1,0 +1,181 @@
+NBA TICKET #4
+================================================================================
+Total Picks: 27
+Total Odds: 9558.94x
+Games: Indiana Pacers - Toronto Raptors, New Orleans Pelicans - Brooklyn Nets, Philadelphia 76ers - Cleveland Cavaliers, LA Clippers - Washington Wizards
+================================================================================
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+Jamal Shead (Toronto Raptors)
+  fg made UNDER 4.5
+  Odds: 1.5174506828528072x | Score: 88.1
+  Recent: 6/7 | Historical: 92.7%
+  Last 7: [1.0, 7.0, 4.0, 2.0, 2.0, 3.0, 1.0]
+
+Scottie Barnes (Toronto Raptors)
+  fg attempted UNDER 16.5
+  Odds: 1.5832805573147561x | Score: 88.1
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [16.0, 19.0, 14.0, 16.0, 14.0, 14.0, 12.0]
+
+Jay Huff (Indiana Pacers)
+  assists UNDER 2.5
+  Odds: 1.3231013495633765x | Score: 88.1
+  Recent: 7/7 | Historical: 90.0%
+  Last 7: [2.0, 2.0, 0.0, 2.0, 1.0, 2.0, 1.0]
+
+Immanuel Quickley (Toronto Raptors)
+  points UNDER 21.5
+  Odds: 1.404297149276787x | Score: 88.0
+  Recent: 6/7 | Historical: 77.5%
+  Last 7: [18.0, 20.0, 17.0, 21.0, 16.0, 15.0, 22.0]
+
+Pascal Siakam (Indiana Pacers)
+  points OVER 20.5
+  Odds: 1.3653741125068268x | Score: 87.9
+  Recent: 6/7 | Historical: 74.4%
+  Last 7: [21.0, 11.0, 30.0, 22.0, 34.0, 23.0, 26.0]
+
+Jamal Shead (Toronto Raptors)
+  fg attempted UNDER 8.5
+  Odds: 2.0729684908789388x | Score: 87.8
+  Recent: 6/7 | Historical: 82.9%
+  Last 7: [5.0, 15.0, 8.0, 7.0, 3.0, 7.0, 8.0]
+
+Scottie Barnes (Toronto Raptors)
+  fg made UNDER 9.5
+  Odds: 1.3173494928204452x | Score: 87.7
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [5.0, 10.0, 6.0, 8.0, 8.0, 7.0, 5.0]
+
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+Jeremiah Fears (New Orleans Pelicans)
+  fg attempted OVER 9.5
+  Odds: 1.7962996227770793x | Score: 90.5
+  Recent: 6/7 | Historical: 78.6%
+  Last 7: [9.0, 12.0, 15.0, 11.0, 13.0, 13.0, 15.0]
+
+Noah Clowney (Brooklyn Nets)
+  fg attempted OVER 8.5
+  Odds: 1.307531380753138x | Score: 88.2
+  Recent: 7/7 | Historical: 70.3%
+  Last 7: [9.0, 17.0, 13.0, 11.0, 10.0, 13.0, 9.0]
+
+Nic Claxton (Brooklyn Nets)
+  points UNDER 15.5
+  Odds: 1.4792899408284024x | Score: 88.2
+  Recent: 7/7 | Historical: 68.6%
+  Last 7: [13.0, 7.0, 13.0, 7.0, 11.0, 15.0, 14.0]
+
+Nic Claxton (Brooklyn Nets)
+  fg made UNDER 6.5
+  Odds: 1.5098897780462026x | Score: 88.1
+  Recent: 6/7 | Historical: 80.0%
+  Last 7: [6.0, 3.0, 5.0, 3.0, 5.0, 7.0, 6.0]
+
+Jeremiah Fears (New Orleans Pelicans)
+  assists UNDER 4.5
+  Odds: 1.2773023374632775x | Score: 88.0
+  Recent: 6/7 | Historical: 83.3%
+  Last 7: [3.0, 3.0, 6.0, 3.0, 2.0, 2.0, 4.0]
+
+Michael Porter Jr. (Brooklyn Nets)
+  fg attempted UNDER 21.5
+  Odds: 1.3902405116085081x | Score: 88.0
+  Recent: 6/7 | Historical: 76.7%
+  Last 7: [17.0, 20.0, 24.0, 17.0, 18.0, 16.0, 20.0]
+
+Trey Murphy III (New Orleans Pelicans)
+  points OVER 16.5
+  Odds: 1.2845215157353886x | Score: 87.9
+  Recent: 6/7 | Historical: 78.9%
+  Last 7: [31.0, 21.0, 35.0, 42.0, 27.0, 15.0, 21.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+Tyrese Maxey (Philadelphia 76ers)
+  points OVER 24.5
+  Odds: 1.4874312063067083x | Score: 89.5
+  Recent: 6/7 | Historical: 80.6%
+  Last 7: [33.0, 38.0, 29.0, 22.0, 28.0, 36.0, 34.0]
+
+Darius Garland (Cleveland Cavaliers)
+  assists OVER 5.5
+  Odds: 1.3715539706487452x | Score: 88.8
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [8.0, 6.0, 8.0, 6.0, 6.0, 8.0, 6.0]
+
+Tyrese Maxey (Philadelphia 76ers)
+  three attempted OVER 7.5
+  Odds: 1.2929919834497026x | Score: 88.5
+  Recent: 6/7 | Historical: 77.8%
+  Last 7: [9.0, 7.0, 8.0, 10.0, 9.0, 9.0, 10.0]
+
+Quentin Grimes (Philadelphia 76ers)
+  three attempted OVER 3.5
+  Odds: 1.386193512614361x | Score: 87.9
+  Recent: 5/7 | Historical: 88.9%
+  Last 7: [2.0, 4.0, 4.0, 3.0, 7.0, 7.0, 7.0]
+
+Quentin Grimes (Philadelphia 76ers)
+  fg attempted OVER 5.5
+  Odds: 1.3243279035889286x | Score: 87.6
+  Recent: 5/7 | Historical: 88.9%
+  Last 7: [3.0, 9.0, 5.0, 9.0, 8.0, 10.0, 9.0]
+
+Darius Garland (Cleveland Cavaliers)
+  fg made OVER 4.5
+  Odds: 1.2753475322025252x | Score: 87.6
+  Recent: 7/7 | Historical: 80.0%
+  Last 7: [7.0, 10.0, 7.0, 14.0, 7.0, 6.0, 7.0]
+
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+James Harden (Los Angeles Clippers)
+  points UNDER 33.5
+  Odds: 1.3196093956188968x | Score: 93.1
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [32.0, 19.0, 31.0, 23.0, 18.0, 20.0, 21.0]
+
+James Harden (Los Angeles Clippers)
+  ft attempted UNDER 11.5
+  Odds: 1.441753171856978x | Score: 89.2
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [8.0, 11.0, 8.0, 7.0, 3.0, 11.0, 10.0]
+
+Khris Middleton (Washington Wizards)
+  fg attempted OVER 5.5
+  Odds: 1.4432096983691731x | Score: 88.7
+  Recent: 6/7 | Historical: 88.5%
+  Last 7: [8.0, 5.0, 10.0, 6.0, 6.0, 6.0, 7.0]
+
+James Harden (Los Angeles Clippers)
+  fg attempted UNDER 21.5
+  Odds: 1.3238019592268997x | Score: 88.4
+  Recent: 6/7 | Historical: 77.8%
+  Last 7: [28.0, 20.0, 13.0, 17.0, 15.0, 14.0, 14.0]
+
+Tre Johnson (Washington Wizards)
+  assists UNDER 3.5
+  Odds: 1.2953367875647668x | Score: 88.0
+  Recent: 6/7 | Historical: 93.5%
+  Last 7: [3.0, 2.0, 3.0, 5.0, 3.0, 1.0, 2.0]
+
+John Collins (Los Angeles Clippers)
+  points UNDER 19.5
+  Odds: 1.294665976178146x | Score: 87.5
+  Recent: 5/7 | Historical: 89.5%
+  Last 7: [3.0, 25.0, 16.0, 18.0, 18.0, 22.0, 8.0]
+
+Kris Dunn (Los Angeles Clippers)
+  points UNDER 11.5
+  Odds: 1.2748597654258031x | Score: 87.4
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [0.0, 2.0, 9.0, 7.0, 16.0, 10.0, 2.0]
+
