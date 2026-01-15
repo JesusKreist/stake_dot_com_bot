@@ -1,0 +1,230 @@
+NBA UNDERS-ONLY TICKET #3
+================================================================================
+Strategy: High-Confidence UNDER Bets Only
+Criteria: Score >= 75 AND Recent >= 4/7
+================================================================================
+Total Picks: 34
+Total Odds: 56845.48x
+Avg Score: 86.4
+Avg Historical Hit Rate: 79.6%
+Games: New Orleans Pelicans - Brooklyn Nets, Chicago Bulls - Utah Jazz, LA Clippers - Washington Wizards, Philadelphia 76ers - Cleveland Cavaliers, Sacramento Kings - New York Knicks
+================================================================================
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+Nic Claxton (Brooklyn Nets)
+  fg attempted UNDER 10.5
+  Odds: 1.5229972586049345x | Score: 89.0 (base: 89.0)
+  Recent: 7/7 | Historical: 71.4%
+  Last 7: [9.0, 7.0, 9.0, 4.0, 10.0, 9.0, 9.0]
+
+Nic Claxton (Brooklyn Nets)
+  points UNDER 15.5
+  Odds: 1.4602803738317758x | Score: 88.2 (base: 88.2)
+  Recent: 7/7 | Historical: 68.6%
+  Last 7: [13.0, 7.0, 13.0, 7.0, 11.0, 15.0, 14.0]
+
+Zion Williamson (New Orleans Pelicans)
+  fg attempted UNDER 16.5
+  Odds: 1.3806433798149937x | Score: 87.1 (base: 87.1)
+  Recent: 6/7 | Historical: 80.8%
+  Last 7: [12.0, 14.0, 14.0, 15.0, 13.0, 10.0, 26.0]
+
+Derik Queen (New Orleans Pelicans)
+  points UNDER 15.5
+  Odds: 1.2919896640826873x | Score: 86.6 (base: 86.6)
+  Recent: 7/7 | Historical: 70.7%
+  Last 7: [10.0, 10.0, 14.0, 6.0, 10.0, 13.0, 9.0]
+
+Day'Ron Sharpe (Brooklyn Nets)
+  fg attempted UNDER 8.5
+  Odds: 1.2990387113535982x | Score: 86.5 (base: 86.5)
+  Recent: 5/7 | Historical: 91.7%
+  Last 7: [7.0, 7.0, 6.0, 4.0, 9.0, 12.0, 6.0]
+
+Day'Ron Sharpe (Brooklyn Nets)
+  rebounds UNDER 9.5
+  Odds: 1.3377926421404682x | Score: 86.2 (base: 86.2)
+  Recent: 5/7 | Historical: 88.9%
+  Last 7: [12.0, 13.0, 9.0, 7.0, 6.0, 9.0, 8.0]
+
+Derik Queen (New Orleans Pelicans)
+  threesmade UNDER 0.5
+  Odds: 1.3335111348179758x | Score: 86.0 (base: 86.0)
+  Recent: 7/7 | Historical: 87.8%
+  Last 7: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+Coby White (Chicago Bulls)
+  fg attempted UNDER 16.5
+  Odds: 1.4907573047107932x | Score: 88.4 (base: 88.4)
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [15.0, 7.0, 0.0, 12.0, 12.0, 13.0, 13.0]
+
+Keyonte George (Utah Jazz)
+  three attempted UNDER 9.5
+  Odds: 1.4923145799134456x | Score: 86.8 (base: 86.8)
+  Recent: 6/7 | Historical: 78.9%
+  Last 7: [8.0, 2.0, 4.0, 9.0, 2.0, 9.0, 12.0]
+
+Keyonte George (Utah Jazz)
+  fg made UNDER 9.5
+  Odds: 1.3475272874275703x | Score: 86.7 (base: 86.7)
+  Recent: 6/7 | Historical: 76.3%
+  Last 7: [8.0, 2.0, 8.0, 9.0, 5.0, 7.0, 13.0]
+
+Keyonte George (Utah Jazz)
+  fg attempted UNDER 20.5
+  Odds: 1.4371945961483186x | Score: 86.5 (base: 86.5)
+  Recent: 5/7 | Historical: 81.6%
+  Last 7: [16.0, 7.0, 12.0, 22.0, 12.0, 18.0, 24.0]
+
+Coby White (Chicago Bulls)
+  points UNDER 24.5
+  Odds: 1.3312034078807242x | Score: 85.7 (base: 85.7)
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [22.0, 5.0, 0.0, 16.0, 13.0, 24.0, 21.0]
+
+Matas Buzelis (Chicago Bulls)
+  fg made UNDER 7.5
+  Odds: 1.3640703860319192x | Score: 85.6 (base: 85.6)
+  Recent: 5/7 | Historical: 84.6%
+  Last 7: [7.0, 7.0, 7.0, 9.0, 6.0, 6.0, 8.0]
+
+Lauri Markkanen (Utah Jazz)
+  rebounds UNDER 9.5
+  Odds: 1.3745704467353952x | Score: 85.3 (base: 85.3)
+  Recent: 5/7 | Historical: 87.9%
+  Last 7: [12.0, 7.0, 13.0, 4.0, 6.0, 9.0, 5.0]
+
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+James Harden (Los Angeles Clippers)
+  points UNDER 31.5
+  Odds: 1.4725371815638344x | Score: 88.5 (base: 88.5)
+  Recent: 6/7 | Historical: 80.6%
+  Last 7: [32.0, 19.0, 31.0, 23.0, 18.0, 20.0, 21.0]
+
+John Collins (Los Angeles Clippers)
+  points UNDER 18.5
+  Odds: 1.3745704467353952x | Score: 86.6 (base: 86.6)
+  Recent: 5/7 | Historical: 86.8%
+  Last 7: [3.0, 25.0, 16.0, 18.0, 18.0, 22.0, 8.0]
+
+John Collins (Los Angeles Clippers)
+  rebounds UNDER 8.5
+  Odds: 1.2795905310300704x | Score: 85.8 (base: 85.8)
+  Recent: 5/7 | Historical: 89.5%
+  Last 7: [5.0, 7.0, 4.0, 10.0, 4.0, 2.0, 11.0]
+
+Kris Dunn (Los Angeles Clippers)
+  fg attempted UNDER 8.5
+  Odds: 1.3785497656465397x | Score: 85.5 (base: 85.5)
+  Recent: 5/7 | Historical: 82.1%
+  Last 7: [6.0, 3.0, 6.0, 9.0, 7.0, 10.0, 4.0]
+
+Justin Champagnie (Washington Wizards)
+  three attempted UNDER 3.5
+  Odds: 1.3024225058609011x | Score: 85.1 (base: 85.1)
+  Recent: 6/7 | Historical: 88.9%
+  Last 7: [0.0, 2.0, 2.0, 5.0, 2.0, 3.0, 3.0]
+
+Kris Dunn (Los Angeles Clippers)
+  points UNDER 10.5
+  Odds: 1.372495196266813x | Score: 84.8 (base: 84.8)
+  Recent: 6/7 | Historical: 76.9%
+  Last 7: [0.0, 2.0, 9.0, 7.0, 16.0, 10.0, 2.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+Tyrese Maxey (Philadelphia 76ers)
+  three attempted UNDER 10.5
+  Odds: 1.5069318866787222x | Score: 90.1 (base: 90.1)
+  Recent: 7/7 | Historical: 72.2%
+  Last 7: [9.0, 7.0, 8.0, 10.0, 9.0, 9.0, 10.0]
+
+Donovan Mitchell (Cleveland Cavaliers)
+  three attempted UNDER 11.5
+  Odds: 1.3504388926401079x | Score: 86.9 (base: 86.9)
+  Recent: 6/7 | Historical: 73.0%
+  Last 7: [9.0, 10.0, 8.0, 10.0, 12.0, 7.0, 9.0]
+
+Jarrett Allen (Cleveland Cavaliers)
+  rebounds UNDER 11.5
+  Odds: 1.3636983499249966x | Score: 84.6 (base: 84.6)
+  Recent: 5/7 | Historical: 86.2%
+  Last 7: [4.0, 11.0, 10.0, 12.0, 12.0, 11.0, 10.0]
+
+Evan Mobley (Cleveland Cavaliers)
+  points UNDER 21.5
+  Odds: 1.3087292239235702x | Score: 84.6 (base: 84.6)
+  Recent: 6/7 | Historical: 68.6%
+  Last 7: [15.0, 24.0, 19.0, 20.0, 15.0, 8.0, 16.0]
+
+Joel Embiid (Philadelphia 76ers)
+  ft made UNDER 9.5
+  Odds: 1.3352917612498332x | Score: 84.5 (base: 84.5)
+  Recent: 6/7 | Historical: 85.0%
+  Last 7: [8.0, 8.0, 7.0, 5.0, 8.0, 4.0, 11.0]
+
+Evan Mobley (Cleveland Cavaliers)
+  ft attempted UNDER 5.5
+  Odds: 1.352082206598161x | Score: 83.3 (base: 83.3)
+  Recent: 7/7 | Historical: 68.6%
+  Last 7: [2.0, 4.0, 1.0, 4.0, 3.0, 5.0, 3.0]
+
+Donovan Mitchell (Cleveland Cavaliers)
+  threesmade UNDER 4.5
+  Odds: 1.3012361743656475x | Score: 83.0 (base: 83.0)
+  Recent: 6/7 | Historical: 70.3%
+  Last 7: [4.0, 4.0, 2.0, 3.0, 5.0, 4.0, 2.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+Jalen Brunson (New York Knicks)
+  points UNDER 32.5
+  Odds: 1.439677512237259x | Score: 89.8 (base: 89.8)
+  Recent: 7/7 | Historical: 69.4%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Precious Achiuwa (Sacramento Kings)
+  fg attempted UNDER 8.5
+  Odds: 1.38217000691085x | Score: 87.1 (base: 87.1)
+  Recent: 6/7 | Historical: 84.8%
+  Last 7: [7.0, 7.0, 0.0, 7.0, 3.0, 8.0, 9.0]
+
+Jalen Brunson (New York Knicks)
+  fg attempted UNDER 23.5
+  Odds: 1.6436554898093358x | Score: 87.0 (base: 87.0)
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [19.0, 19.0, 12.0, 21.0, 21.0, 23.0, 24.0]
+
+Maxime Raynaud (Sacramento Kings)
+  points UNDER 15.5
+  Odds: 1.2776287210936503x | Score: 86.8 (base: 86.8)
+  Recent: 7/7 | Historical: 81.2%
+  Last 7: [11.0, 12.0, 8.0, 14.0, 6.0, 6.0, 12.0]
+
+Zach LaVine (Sacramento Kings)
+  assists UNDER 3.5
+  Odds: 1.3999720005599887x | Score: 86.3 (base: 86.3)
+  Recent: 6/7 | Historical: 89.3%
+  Last 7: [1.0, 1.0, 3.0, 3.0, 4.0, 1.0, 3.0]
+
+Karl-Anthony Towns (New York Knicks)
+  points UNDER 23.5
+  Odds: 1.3997760358342664x | Score: 86.1 (base: 86.1)
+  Recent: 7/7 | Historical: 69.4%
+  Last 7: [20.0, 15.0, 20.0, 6.0, 23.0, 20.0, 12.0]
+
+Maxime Raynaud (Sacramento Kings)
+  fg made UNDER 6.5
+  Odds: 1.289324394017535x | Score: 86.0 (base: 86.0)
+  Recent: 7/7 | Historical: 78.1%
+  Last 7: [5.0, 6.0, 4.0, 6.0, 3.0, 3.0, 5.0]
+

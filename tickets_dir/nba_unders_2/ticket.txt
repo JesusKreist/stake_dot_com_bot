@@ -1,0 +1,218 @@
+NBA UNDERS-ONLY TICKET #2
+================================================================================
+Strategy: High-Confidence UNDER Bets Only
+Criteria: Score >= 75 AND Recent >= 4/7
+================================================================================
+Total Picks: 32
+Total Odds: 28193.81x
+Avg Score: 90.2
+Avg Historical Hit Rate: 85.0%
+Games: LA Clippers - Washington Wizards, Indiana Pacers - Toronto Raptors, Chicago Bulls - Utah Jazz, Sacramento Kings - New York Knicks, Dallas Mavericks - Denver Nuggets
+================================================================================
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+James Harden (Los Angeles Clippers)
+  points UNDER 33.5
+  Odds: 1.321178491214163x | Score: 93.1 (base: 93.1)
+  Recent: 7/7 | Historical: 83.3%
+  Last 7: [32.0, 19.0, 31.0, 23.0, 18.0, 20.0, 21.0]
+
+James Harden (Los Angeles Clippers)
+  ft attempted UNDER 11.5
+  Odds: 1.4459224985540775x | Score: 89.2 (base: 89.2)
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [8.0, 11.0, 8.0, 7.0, 3.0, 11.0, 10.0]
+
+Tre Johnson (Washington Wizards)
+  assists UNDER 3.5
+  Odds: 1.2956724540036277x | Score: 88.0 (base: 88.0)
+  Recent: 6/7 | Historical: 93.5%
+  Last 7: [3.0, 2.0, 3.0, 5.0, 3.0, 1.0, 2.0]
+
+John Collins (Los Angeles Clippers)
+  points UNDER 19.5
+  Odds: 1.2911555842479019x | Score: 87.5 (base: 87.5)
+  Recent: 5/7 | Historical: 89.5%
+  Last 7: [3.0, 25.0, 16.0, 18.0, 18.0, 22.0, 8.0]
+
+James Harden (Los Angeles Clippers)
+  fg attempted UNDER 20.5
+  Odds: 1.448225923244026x | Score: 87.5 (base: 87.5)
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [28.0, 20.0, 13.0, 17.0, 15.0, 14.0, 14.0]
+
+John Collins (Los Angeles Clippers)
+  rebounds UNDER 7.5
+  Odds: 1.4847809948032666x | Score: 85.8 (base: 85.8)
+  Recent: 5/7 | Historical: 89.5%
+  Last 7: [5.0, 7.0, 4.0, 10.0, 4.0, 2.0, 11.0]
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+Immanuel Quickley (Toronto Raptors)
+  points UNDER 22.5
+  Odds: 1.3020833333333333x | Score: 94.2 (base: 94.2)
+  Recent: 7/7 | Historical: 85.0%
+  Last 7: [18.0, 20.0, 17.0, 21.0, 16.0, 15.0, 22.0]
+
+Andrew Nembhard (Indiana Pacers)
+  fg attempted UNDER 16.5
+  Odds: 1.3506212857914641x | Score: 93.5 (base: 93.5)
+  Recent: 7/7 | Historical: 83.9%
+  Last 7: [14.0, 16.0, 12.0, 16.0, 10.0, 15.0, 13.0]
+
+Scottie Barnes (Toronto Raptors)
+  fg attempted UNDER 17.5
+  Odds: 1.3846579894765993x | Score: 91.9 (base: 91.9)
+  Recent: 6/7 | Historical: 82.5%
+  Last 7: [16.0, 19.0, 14.0, 16.0, 14.0, 14.0, 12.0]
+
+Jamal Shead (Toronto Raptors)
+  fg attempted UNDER 10.5
+  Odds: 1.4419610670511895x | Score: 90.3 (base: 90.3)
+  Recent: 6/7 | Historical: 90.2%
+  Last 7: [5.0, 15.0, 8.0, 7.0, 3.0, 7.0, 8.0]
+
+Jamal Shead (Toronto Raptors)
+  points UNDER 13.5
+  Odds: 1.3257324671881214x | Score: 89.0 (base: 89.0)
+  Recent: 6/7 | Historical: 92.7%
+  Last 7: [3.0, 22.0, 13.0, 4.0, 5.0, 10.0, 2.0]
+
+Jamal Shead (Toronto Raptors)
+  rebounds UNDER 3.5
+  Odds: 1.3504388926401079x | Score: 88.8 (base: 88.8)
+  Recent: 7/7 | Historical: 90.2%
+  Last 7: [1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.0]
+
+Immanuel Quickley (Toronto Raptors)
+  turnovers UNDER 2.5
+  Odds: 1.291822761917065x | Score: 88.7 (base: 88.7)
+  Recent: 7/7 | Historical: 82.5%
+  Last 7: [1.0, 2.0, 2.0, 0.0, 1.0, 1.0, 0.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+Matas Buzelis (Chicago Bulls)
+  three attempted UNDER 8.5
+  Odds: 1.3073604392731075x | Score: 94.3 (base: 94.3)
+  Recent: 6/7 | Historical: 97.4%
+  Last 7: [7.0, 7.0, 7.0, 4.0, 8.0, 8.0, 9.0]
+
+Ayo Dosunmu (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.3113034356150015x | Score: 92.1 (base: 92.1)
+  Recent: 7/7 | Historical: 90.9%
+  Last 7: [4.0, 4.0, 1.0, 3.0, 4.0, 3.0, 4.0]
+
+Matas Buzelis (Chicago Bulls)
+  points UNDER 21.5
+  Odds: 1.2965123816932451x | Score: 91.4 (base: 91.4)
+  Recent: 6/7 | Historical: 89.7%
+  Last 7: [19.0, 15.0, 20.0, 26.0, 17.0, 21.0, 19.0]
+
+Keyonte George (Utah Jazz)
+  three attempted UNDER 10.5
+  Odds: 1.2756729174639623x | Score: 90.4 (base: 90.4)
+  Recent: 6/7 | Historical: 89.5%
+  Last 7: [8.0, 2.0, 4.0, 9.0, 2.0, 9.0, 12.0]
+
+Coby White (Chicago Bulls)
+  fg attempted UNDER 17.5
+  Odds: 1.335113484646195x | Score: 90.3 (base: 90.3)
+  Recent: 7/7 | Historical: 88.9%
+  Last 7: [15.0, 7.0, 0.0, 12.0, 12.0, 13.0, 13.0]
+
+Isaac Okoro (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.2923235978288963x | Score: 87.6 (base: 87.6)
+  Recent: 6/7 | Historical: 90.3%
+  Last 7: [4.0, 4.0, 4.0, 3.0, 2.0, 3.0, 5.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+Jalen Brunson (New York Knicks)
+  fg attempted UNDER 24.5
+  Odds: 1.506024096385542x | Score: 93.6 (base: 93.6)
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [19.0, 19.0, 12.0, 21.0, 21.0, 23.0, 24.0]
+
+Jalen Brunson (New York Knicks)
+  points UNDER 33.5
+  Odds: 1.3596193065941535x | Score: 92.7 (base: 92.7)
+  Recent: 7/7 | Historical: 77.8%
+  Last 7: [26.0, 27.0, 26.0, 25.0, 31.0, 24.0, 29.0]
+
+Jalen Brunson (New York Knicks)
+  fg made UNDER 11.5
+  Odds: 1.5384615384615383x | Score: 90.3 (base: 90.3)
+  Recent: 7/7 | Historical: 72.2%
+  Last 7: [10.0, 9.0, 9.0, 10.0, 10.0, 10.0, 10.0]
+
+Zach LaVine (Sacramento Kings)
+  three attempted UNDER 8.5
+  Odds: 1.3087292239235702x | Score: 87.4 (base: 87.4)
+  Recent: 7/7 | Historical: 75.0%
+  Last 7: [4.0, 6.0, 7.0, 6.0, 4.0, 4.0, 6.0]
+
+Maxime Raynaud (Sacramento Kings)
+  rebounds UNDER 9.5
+  Odds: 1.4226774790155072x | Score: 87.3 (base: 87.3)
+  Recent: 7/7 | Historical: 78.1%
+  Last 7: [4.0, 9.0, 7.0, 9.0, 8.0, 5.0, 8.0]
+
+Karl-Anthony Towns (New York Knicks)
+  rebounds UNDER 13.5
+  Odds: 1.3203063110641668x | Score: 87.2 (base: 87.2)
+  Recent: 6/7 | Historical: 75.0%
+  Last 7: [11.0, 12.0, 11.0, 1.0, 14.0, 7.0, 12.0]
+
+
+Dallas Mavericks - Denver Nuggets
+--------------------------------------------------------------------------------
+Naji Marshall (Dallas Mavericks)
+  fg attempted UNDER 13.5
+  Odds: 1.5683814303638646x | Score: 92.2 (base: 92.2)
+  Recent: 6/7 | Historical: 90.0%
+  Last 7: [14.0, 11.0, 11.0, 10.0, 11.0, 7.0, 12.0]
+
+Cooper Flagg (Dallas Mavericks)
+  fg attempted UNDER 19.5
+  Odds: 1.5537600994406464x | Score: 91.9 (base: 91.9)
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [17.0, 13.0, 18.0, 15.0, 12.0, 15.0, 20.0]
+
+Jamal Murray (Denver Nuggets)
+  fg attempted UNDER 23.5
+  Odds: 1.5552099533437014x | Score: 91.6 (base: 91.6)
+  Recent: 6/7 | Historical: 86.1%
+  Last 7: [19.0, 18.0, 23.0, 28.0, 18.0, 21.0, 21.0]
+
+Naji Marshall (Dallas Mavericks)
+  points UNDER 18.5
+  Odds: 1.4718869590815424x | Score: 90.3 (base: 90.3)
+  Recent: 6/7 | Historical: 87.5%
+  Last 7: [22.0, 14.0, 17.0, 15.0, 10.0, 9.0, 17.0]
+
+Tim Hardaway Jr. (Denver Nuggets)
+  three attempted UNDER 9.5
+  Odds: 1.3557483731019522x | Score: 90.1 (base: 90.1)
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [7.0, 9.0, 6.0, 8.0, 10.0, 9.0, 9.0]
+
+Klay Thompson (Dallas Mavericks)
+  three attempted UNDER 10.5
+  Odds: 1.2815583749839805x | Score: 89.6 (base: 89.6)
+  Recent: 6/7 | Historical: 83.8%
+  Last 7: [9.0, 6.0, 11.0, 8.0, 4.0, 5.0, 10.0]
+
+Cooper Flagg (Dallas Mavericks)
+  points UNDER 26.5
+  Odds: 1.3758943313153549x | Score: 89.6 (base: 89.6)
+  Recent: 6/7 | Historical: 84.6%
+  Last 7: [27.0, 11.0, 26.0, 20.0, 10.0, 12.0, 15.0]
+

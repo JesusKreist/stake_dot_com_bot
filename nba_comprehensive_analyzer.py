@@ -2,13 +2,203 @@
 """
 NBA Comprehensive Stats Analyzer
 Analyzes all available NBA props with 7-game lookback
+Enhanced with contextual factors: Home/Away, Back-to-Back, Rest Days, Minutes Trend
 """
 
 import json
+from datetime import datetime, timedelta
 from nba_api.stats.endpoints import playergamelog
 from nba_api.stats.static import players
+import statistics
 import time
 from typing import Dict, List, Any, Optional
+
+
+# =============================================================================
+# CONTEXTUAL FACTOR HELPERS
+# =============================================================================
+
+def detect_home_away(matchup: str) -> str:
+    """
+    Detect if game is home or away from MATCHUP field.
+    Format: "LAL vs. ATL" (first team is home) or "LAL @ ATL" (first team is away)
+
+    Returns: "home", "away", or "unknown"
+    """
+    if not matchup:
+        return "unknown"
+
+    if " vs. " in matchup:
+        return "home"  # "vs." means the first team is home
+    elif " @ " in matchup:
+        return "away"  # "@" means the first team is away
+
+    return "unknown"
+
+
+def get_home_away_multiplier(home_away: str) -> float:
+    """
+    Calculate home court advantage bonus.
+    Home games: +4% bonus
+    """
+    if home_away == "home":
+        return 1.04
+    return 1.0
+
+
+def parse_game_date(date_str: str) -> Optional[datetime]:
+    """
+    Parse NBA API date format (e.g., "JAN 14, 2026").
+    """
+    if not date_str:
+        return None
+    try:
+        return datetime.strptime(date_str, "%b %d, %Y")
+    except ValueError:
+        try:
+            # Try alternate format
+            return datetime.strptime(date_str, "%Y-%m-%d")
+        except ValueError:
+            return None
+
+
+def detect_rest_days(games: List[Dict]) -> Dict:
+    """
+    Detect rest days and back-to-back situations.
+
+    Returns dict with:
+    - is_b2b: bool (back-to-back game)
+    - rest_days: int (days since last game, -1 if unknown)
+    """
+    if not games or len(games) < 2:
+        return {"is_b2b": False, "rest_days": -1}
+
+    # Get most recent two game dates to check for B2B pattern
+    date1 = parse_game_date(games[0].get("GAME_DATE", ""))
+    date2 = parse_game_date(games[1].get("GAME_DATE", ""))
+
+    if not date1 or not date2:
+        return {"is_b2b": False, "rest_days": -1}
+
+    days_between = (date1 - date2).days
+
+    return {
+        "is_b2b": days_between <= 1,
+        "rest_days": days_between
+    }
+
+
+def get_b2b_multiplier(is_b2b: bool, rest_days: int, bet_type: str) -> float:
+    """
+    Calculate B2B/rest adjustment for score.
+
+    Back-to-back:
+    - OVER bets: -5% (players tired, less production)
+    - UNDER bets: +3% (tired players support unders)
+
+    Well-rested (2+ days):
+    - All bets: +3% bonus
+    """
+    if is_b2b:
+        if bet_type.upper() == "OVER":
+            return 0.95  # -5%
+        else:
+            return 1.03  # +3%
+    elif rest_days >= 2:
+        return 1.03  # +3% for well-rested
+
+    return 1.0
+
+
+def calculate_minutes_trend(games: List[Dict]) -> Dict:
+    """
+    Compare last 3 games minutes to season average.
+
+    Returns dict with:
+    - season_avg_min: float
+    - recent_avg_min: float (last 3 games)
+    - trend: "up", "down", or "stable"
+    - trend_pct: percentage change
+    """
+    if not games or len(games) < 3:
+        return {
+            "season_avg_min": 0,
+            "recent_avg_min": 0,
+            "trend": "unknown",
+            "trend_pct": 0
+        }
+
+    all_minutes = []
+    for game in games:
+        min_val = game.get("MIN", 0)
+        try:
+            if isinstance(min_val, str) and ":" in min_val:
+                minutes = float(min_val.split(":")[0])
+            else:
+                minutes = float(min_val) if min_val else 0
+            if minutes > 0:
+                all_minutes.append(minutes)
+        except (ValueError, TypeError):
+            continue
+
+    if len(all_minutes) < 3:
+        return {
+            "season_avg_min": 0,
+            "recent_avg_min": 0,
+            "trend": "unknown",
+            "trend_pct": 0
+        }
+
+    season_avg = sum(all_minutes) / len(all_minutes)
+    recent_avg = sum(all_minutes[:3]) / 3
+
+    if season_avg == 0:
+        return {
+            "season_avg_min": 0,
+            "recent_avg_min": round(recent_avg, 1),
+            "trend": "stable",
+            "trend_pct": 0
+        }
+
+    trend_pct = ((recent_avg - season_avg) / season_avg) * 100
+
+    if trend_pct > 5:
+        trend = "up"
+    elif trend_pct < -5:
+        trend = "down"
+    else:
+        trend = "stable"
+
+    return {
+        "season_avg_min": round(season_avg, 1),
+        "recent_avg_min": round(recent_avg, 1),
+        "trend": trend,
+        "trend_pct": round(trend_pct, 1)
+    }
+
+
+def get_minutes_trend_multiplier(trend: str, bet_type: str) -> float:
+    """
+    Adjust score based on minutes trend.
+
+    Minutes UP:
+    - OVER: +3% (more time = more production)
+    - UNDER: -2% (more time hurts unders)
+
+    Minutes DOWN:
+    - OVER: -2% (less time = less production)
+    - UNDER: +3% (less time helps unders)
+    """
+    if trend == "up":
+        return 1.03 if bet_type.upper() == "OVER" else 0.98
+    elif trend == "down":
+        return 0.98 if bet_type.upper() == "OVER" else 1.03
+    return 1.0
+
+
+# =============================================================================
+# CORE FUNCTIONS
+# =============================================================================
 
 
 def find_player_id(player_name: str) -> Optional[int]:
@@ -101,90 +291,119 @@ def calculate_stat_value(game: Dict, stat_type: str) -> Optional[float]:
 
 
 def analyze_prop(games: List[Dict], stat_type: str, line: float, bet_type: str, lookback: int = 7) -> Dict:
-    """Analyze a specific prop bet against historical data."""
+    """
+    Analyze a specific prop bet against historical data.
+    Enhanced with contextual factors: Home/Away, B2B, Rest Days, Minutes Trend.
+    """
     if not games:
         return {
             "error": "No games data",
             "score": 0,
+            "base_score": 0,
             "historical_hit_rate": 0,
             "recent_hit_rate": 0,
             "recent_hits": 0,
             "total_games": 0
         }
-    
+
     # Use only the most recent games (up to lookback)
     recent_games = games[:lookback]
-    
+
     hits = []
     recent_hits_count = 0
     stat_values = []
-    
+
     for i, game in enumerate(games):
         stat_value = calculate_stat_value(game, stat_type)
-        
+
         if stat_value is None:
             continue
-            
+
         stat_values.append(stat_value)
-        
+
         # Determine if bet would have hit
         if bet_type == "over":
             hit = stat_value > line
         else:  # under
             hit = stat_value < line
-        
+
         hits.append(hit)
-        
+
         # Count recent hits (first lookback games)
         if i < lookback and hit:
             recent_hits_count += 1
-    
+
     if not stat_values:
         return {
             "error": "No valid stat values",
             "score": 0,
+            "base_score": 0,
             "historical_hit_rate": 0,
             "recent_hit_rate": 0,
             "recent_hits": 0,
             "total_games": 0
         }
-    
+
     # Calculate metrics
     total_games = len(hits)
     historical_hits = sum(hits)
     historical_hit_rate = (historical_hits / total_games * 100) if total_games > 0 else 0
     recent_hit_rate = (recent_hits_count / min(lookback, total_games) * 100) if total_games > 0 else 0
-    
+
     avg_value = sum(stat_values) / len(stat_values)
-    
+
     # Calculate line difference (positive means favorable)
     if bet_type == "over":
         line_diff = avg_value - line
     else:
         line_diff = line - avg_value
-    
+
     line_diff_pct = (line_diff / line * 100) if line != 0 else 0
-    
+
     # Calculate consistency (inverse of coefficient of variation)
     if len(stat_values) > 1:
-        import statistics
         std_dev = statistics.stdev(stat_values)
         cv = (std_dev / avg_value) if avg_value != 0 else 0
         consistency = max(0, 100 - (cv * 100))
     else:
         consistency = 50
-    
-    # Scoring algorithm (0-100)
-    score = (
+
+    # Base scoring algorithm (0-100)
+    base_score = (
         historical_hit_rate * 0.35 +  # 35% weight on historical hit rate
         recent_hit_rate * 0.25 +       # 25% weight on recent hit rate
         min(line_diff_pct * 2, 20) +   # Up to 20 points for favorable line
         consistency * 0.15 +            # 15% weight on consistency
         (total_games / 20 * 5)          # Up to 5 points for sample size
     )
-    
+
+    # ==========================================================================
+    # CONTEXTUAL ADJUSTMENTS
+    # ==========================================================================
+
+    # 1. Home/Away detection (from most recent game's matchup pattern)
+    most_recent_matchup = games[0].get("MATCHUP", "") if games else ""
+    home_away = detect_home_away(most_recent_matchup)
+    home_multiplier = get_home_away_multiplier(home_away)
+
+    # 2. Back-to-back / Rest days detection
+    rest_info = detect_rest_days(games)
+    b2b_multiplier = get_b2b_multiplier(
+        rest_info["is_b2b"],
+        rest_info["rest_days"],
+        bet_type
+    )
+
+    # 3. Minutes trend analysis
+    minutes_info = calculate_minutes_trend(games)
+    minutes_multiplier = get_minutes_trend_multiplier(minutes_info["trend"], bet_type)
+
+    # Apply all contextual adjustments
+    adjusted_score = base_score * home_multiplier * b2b_multiplier * minutes_multiplier
+
     return {
-        "score": round(score, 1),
+        "score": round(adjusted_score, 1),
+        "base_score": round(base_score, 1),
         "historical_hit_rate": round(historical_hit_rate, 1),
         "recent_hit_rate": round(recent_hit_rate, 1),
         "recent_hits": recent_hits_count,
@@ -193,7 +412,18 @@ def analyze_prop(games: List[Dict], stat_type: str, line: float, bet_type: str, 
         "line": line,
         "line_diff": round(line_diff, 1),
         "consistency": round(consistency, 1),
-        "last_7_values": [round(calculate_stat_value(g, stat_type), 1) for g in recent_games if calculate_stat_value(g, stat_type) is not None][:7]
+        "last_7_values": [round(calculate_stat_value(g, stat_type), 1) for g in recent_games if calculate_stat_value(g, stat_type) is not None][:7],
+        # Contextual factors
+        "home_away": home_away,
+        "home_bonus": round((home_multiplier - 1) * 100, 1),
+        "is_b2b": rest_info["is_b2b"],
+        "rest_days": rest_info["rest_days"],
+        "b2b_adjustment": round((b2b_multiplier - 1) * 100, 1),
+        "minutes_trend": minutes_info["trend"],
+        "minutes_trend_pct": minutes_info["trend_pct"],
+        "season_avg_min": minutes_info["season_avg_min"],
+        "recent_avg_min": minutes_info["recent_avg_min"],
+        "minutes_adjustment": round((minutes_multiplier - 1) * 100, 1),
     }
 
 

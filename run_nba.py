@@ -73,6 +73,12 @@ def main():
             "Generating positional plays tickets",
         )
 
+    # Step 6: Generate unders-only tickets
+    run_command(
+        f"{venv_python} nba_unders_ticket_generator.py",
+        "Generating unders-only tickets",
+    )
+
     print("\n" + "=" * 60)
     print("✅ All done! Check tickets_dir/ for your tickets")
     print("=" * 60)
