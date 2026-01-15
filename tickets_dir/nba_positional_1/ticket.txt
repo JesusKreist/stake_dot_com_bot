@@ -1,0 +1,180 @@
+NBA POSITIONAL PLAYS TICKET #1
+================================================================================
+Strategy: Position-Based Prop Selection
+================================================================================
+Total Picks: 22
+Total Odds: 739.2x
+Games: Chicago Bulls - Utah Jazz, Philadelphia 76ers - Cleveland Cavaliers, Indiana Pacers - Toronto Raptors, New Orleans Pelicans - Brooklyn Nets
+================================================================================
+
+POSITIONAL BREAKDOWN:
+  C: 7 picks
+  PG: 15 picks
+
+================================================================================
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+[PG] Ayo Dosunmu (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.3113034356150015x | Score: 95.8
+  Recent: 7/7 | Historical: 90.9%
+  Rule: Smallest players on court
+  Last 7: [4.0, 4.0, 1.0, 3.0, 4.0, 3.0, 4.0]
+
+[PG] Keyonte George (Utah Jazz)
+  assists OVER 5.5
+  Odds: 1.3888888888888888x | Score: 88.6
+  Recent: 5/7 | Historical: 78.9%
+  Rule: Point guards are primary ball handlers
+  Last 7: [9.0, 5.0, 7.0, 11.0, 4.0, 9.0, 7.0]
+
+[PG] Keyonte George (Utah Jazz)
+  rebounds UNDER 5.5
+  Odds: 1.2758356723653992x | Score: 84.3
+  Recent: 5/7 | Historical: 73.7%
+  Rule: Smallest players on court
+  Last 7: [5.0, 2.0, 3.0, 7.0, 4.0, 2.0, 6.0]
+
+[PG] Keyonte George (Utah Jazz)
+  steals OVER 0.5
+  Odds: 1.426330052774212x | Score: 82.7
+  Recent: 7/7 | Historical: 68.4%
+  Rule: PGs guard opposing ball handlers
+  Last 7: [1.0, 1.0, 3.0, 1.0, 1.0, 1.0, 1.0]
+
+[PG] Tre Jones (Chicago Bulls)
+  assists OVER 4.5
+  Odds: 1.3170025023047545x | Score: 80.8
+  Recent: 6/7 | Historical: 60.6%
+  Rule: Point guards are primary ball handlers
+  Last 7: [7.0, 5.0, 12.0, 4.0, 8.0, 5.0, 12.0]
+
+[PG] Keyonte George (Utah Jazz)
+  blocks UNDER 0.5
+  Odds: 1.3331555792560992x | Score: 78.8
+  Recent: 6/7 | Historical: 71.1%
+  Rule: Too short for rim protection
+  Last 7: [0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+[C] Jarrett Allen (Cleveland Cavaliers)
+  turnovers UNDER 2.5
+  Odds: 1.286008230452675x | Score: 96.9
+  Recent: 7/7 | Historical: 93.1%
+  Rule: Fewer touches means fewer turnovers
+  Last 7: [2.0, 0.0, 0.0, 2.0, 2.0, 2.0, 2.0]
+
+[C] Evan Mobley (Cleveland Cavaliers)
+  turnovers UNDER 2.5
+  Odds: 1.3984058173682004x | Score: 78.0
+  Recent: 5/7 | Historical: 62.9%
+  Rule: Fewer touches means fewer turnovers
+  Last 7: [1.0, 1.0, 3.0, 4.0, 2.0, 0.0, 2.0]
+
+[C] Joel Embiid (Philadelphia 76ers)
+  blocks OVER 0.5
+  Odds: 1.3196093956188968x | Score: 77.7
+  Recent: 5/7 | Historical: 80.0%
+  Rule: Centers provide rim protection
+  Last 7: [0.0, 1.0, 2.0, 1.0, 0.0, 1.0, 2.0]
+
+[PG] Darius Garland (Cleveland Cavaliers)
+  assists OVER 5.5
+  Odds: 1.3749484394335214x | Score: 92.4
+  Recent: 7/7 | Historical: 80.0%
+  Rule: Point guards are primary ball handlers
+  Last 7: [8.0, 6.0, 8.0, 6.0, 6.0, 8.0, 6.0]
+
+[PG] Darius Garland (Cleveland Cavaliers)
+  rebounds UNDER 3.5
+  Odds: 1.29315918789603x | Score: 86.3
+  Recent: 7/7 | Historical: 76.0%
+  Rule: Smallest players on court
+  Last 7: [2.0, 0.0, 1.0, 2.0, 2.0, 2.0, 1.0]
+
+
+Indiana Pacers - Toronto Raptors
+--------------------------------------------------------------------------------
+[C] Jay Huff (Indiana Pacers)
+  assists UNDER 2.5
+  Odds: 1.2746972594008923x | Score: 92.5
+  Recent: 7/7 | Historical: 90.0%
+  Rule: Centers rarely handle the ball - low assists expected
+  Last 7: [2.0, 2.0, 0.0, 2.0, 1.0, 2.0, 1.0]
+
+[PG] Jamal Shead (Toronto Raptors)
+  rebounds UNDER 3.5
+  Odds: 1.3504388926401079x | Score: 92.4
+  Recent: 7/7 | Historical: 90.2%
+  Rule: Smallest players on court
+  Last 7: [1.0, 1.0, 1.0, 1.0, 2.0, 1.0, 0.0]
+
+[PG] Andrew Nembhard (Indiana Pacers)
+  assists OVER 5.5
+  Odds: 1.3159626266614028x | Score: 88.8
+  Recent: 6/7 | Historical: 77.4%
+  Rule: Point guards are primary ball handlers
+  Last 7: [9.0, 9.0, 11.0, 11.0, 6.0, 7.0, 2.0]
+
+[PG] T.J. McConnell (Indiana Pacers)
+  assists OVER 3.5
+  Odds: 1.3678019422787582x | Score: 86.5
+  Recent: 6/7 | Historical: 75.0%
+  Rule: Point guards are primary ball handlers
+  Last 7: [5.0, 7.0, 8.0, 6.0, 5.0, 3.0, 8.0]
+
+[PG] Jamal Shead (Toronto Raptors)
+  assists OVER 4.5
+  Odds: 1.3280212483399734x | Score: 85.8
+  Recent: 6/7 | Historical: 63.4%
+  Rule: Point guards are primary ball handlers
+  Last 7: [6.0, 6.0, 8.0, 6.0, 5.0, 4.0, 5.0]
+
+[PG] T.J. McConnell (Indiana Pacers)
+  rebounds UNDER 3.5
+  Odds: 1.2983640612827838x | Score: 76.0
+  Recent: 5/7 | Historical: 71.4%
+  Rule: Smallest players on court
+  Last 7: [0.0, 1.0, 4.0, 0.0, 4.0, 2.0, 1.0]
+
+
+New Orleans Pelicans - Brooklyn Nets
+--------------------------------------------------------------------------------
+[C] Derik Queen (New Orleans Pelicans)
+  rebounds OVER 6.5
+  Odds: 1.4015416958654519x | Score: 84.0
+  Recent: 5/7 | Historical: 65.9%
+  Rule: Centers are primary rebounders
+  Last 7: [13.0, 3.0, 16.0, 10.0, 13.0, 6.0, 7.0]
+
+[C] Derik Queen (New Orleans Pelicans)
+  three attempted UNDER 1.5
+  Odds: 1.3559322033898304x | Score: 82.0
+  Recent: 6/7 | Historical: 75.6%
+  Rule: Most centers don't shoot from deep
+  Last 7: [0.0, 0.0, 2.0, 1.0, 1.0, 1.0, 1.0]
+
+[C] Nic Claxton (Brooklyn Nets)
+  assists UNDER 4.5
+  Odds: 1.4729709824716455x | Score: 74.3
+  Recent: 5/7 | Historical: 65.7%
+  Rule: Centers rarely handle the ball - low assists expected
+  Last 7: [5.0, 5.0, 4.0, 0.0, 2.0, 4.0, 3.0]
+
+[PG] Jeremiah Fears (New Orleans Pelicans)
+  rebounds UNDER 4.5
+  Odds: 1.3238019592268997x | Score: 85.9
+  Recent: 5/7 | Historical: 76.2%
+  Rule: Smallest players on court
+  Last 7: [3.0, 4.0, 5.0, 4.0, 4.0, 3.0, 5.0]
+
+[PG] Jeremiah Fears (New Orleans Pelicans)
+  assists OVER 2.5
+  Odds: 1.5206812652068127x | Score: 80.9
+  Recent: 5/7 | Historical: 64.3%
+  Rule: Point guards are primary ball handlers
+  Last 7: [3.0, 3.0, 6.0, 3.0, 2.0, 2.0, 4.0]
+

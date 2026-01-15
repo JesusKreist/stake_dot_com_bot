@@ -1,0 +1,189 @@
+NBA POSITIONAL PLAYS TICKET #2
+================================================================================
+Strategy: Position-Based Prop Selection
+================================================================================
+Total Picks: 23
+Total Odds: 3671.12x
+Games: Dallas Mavericks - Denver Nuggets, Sacramento Kings - New York Knicks, LA Clippers - Washington Wizards, Chicago Bulls - Utah Jazz
+================================================================================
+
+POSITIONAL BREAKDOWN:
+  C: 7 picks
+  PG: 7 picks
+  PF: 6 picks
+  SG: 3 picks
+
+================================================================================
+
+Dallas Mavericks - Denver Nuggets
+--------------------------------------------------------------------------------
+[C] Daniel Gafford (Dallas Mavericks)
+  rebounds OVER 5.5
+  Odds: 1.3386880856760375x | Score: 81.0
+  Recent: 6/7 | Historical: 57.1%
+  Rule: Centers are primary rebounders
+  Last 7: [7.0, 7.0, 13.0, 8.0, 5.0, 10.0, 7.0]
+
+[PF] Aaron Gordon (Denver Nuggets)
+  rebounds OVER 5.5
+  Odds: 1.3827433628318584x | Score: 80.4
+  Recent: 6/7 | Historical: 66.7%
+  Rule: Power forwards are secondary rebounders
+  Last 7: [7.0, 6.0, 9.0, 6.0, 6.0, 2.0, 10.0]
+
+[PF] Aaron Gordon (Denver Nuggets)
+  assists UNDER 2.5
+  Odds: 1.842299189388357x | Score: 72.5
+  Recent: 5/7 | Historical: 72.2%
+  Rule: Limited playmaking role
+  Last 7: [1.0, 4.0, 5.0, 2.0, 2.0, 0.0, 0.0]
+
+[SG] Klay Thompson (Dallas Mavericks)
+  rebounds UNDER 3.5
+  Odds: 1.5142337976983646x | Score: 90.7
+  Recent: 7/7 | Historical: 78.4%
+  Rule: Perimeter players don't crash boards
+  Last 7: [2.0, 2.0, 3.0, 2.0, 3.0, 2.0, 1.0]
+
+[SG] Tim Hardaway Jr. (Denver Nuggets)
+  rebounds UNDER 3.5
+  Odds: 1.5413070283600492x | Score: 84.5
+  Recent: 5/7 | Historical: 82.1%
+  Rule: Perimeter players don't crash boards
+  Last 7: [4.0, 2.0, 2.0, 2.0, 2.0, 2.0, 5.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+[C] Dylan Cardwell (Sacramento Kings)
+  rebounds OVER 3.5
+  Odds: 1.2987012987012987x | Score: 86.8
+  Recent: 7/7 | Historical: 76.9%
+  Rule: Centers are primary rebounders
+  Last 7: [7.0, 11.0, 8.0, 9.0, 7.0, 8.0, 6.0]
+
+[C] Mitchell Robinson (New York Knicks)
+  rebounds OVER 7.5
+  Odds: 1.3513513513513513x | Score: 83.6
+  Recent: 6/7 | Historical: 63.0%
+  Rule: Centers are primary rebounders
+  Last 7: [11.0, 14.0, 9.0, 10.0, 5.0, 9.0, 13.0]
+
+[C] Maxime Raynaud (Sacramento Kings)
+  three attempted UNDER 1.5
+  Odds: 1.2813941568426448x | Score: 83.0
+  Recent: 6/7 | Historical: 84.4%
+  Rule: Most centers don't shoot from deep
+  Last 7: [2.0, 0.0, 1.0, 0.0, 1.0, 0.0, 0.0]
+
+[C] Maxime Raynaud (Sacramento Kings)
+  turnovers UNDER 1.5
+  Odds: 1.4253135689851768x | Score: 78.3
+  Recent: 6/7 | Historical: 71.9%
+  Rule: Fewer touches means fewer turnovers
+  Last 7: [1.0, 1.0, 2.0, 1.0, 1.0, 0.0, 0.0]
+
+[C] Maxime Raynaud (Sacramento Kings)
+  assists UNDER 1.5
+  Odds: 1.6265452179570592x | Score: 75.3
+  Recent: 5/7 | Historical: 68.8%
+  Rule: Centers rarely handle the ball - low assists expected
+  Last 7: [1.0, 1.0, 2.0, 1.0, 1.0, 2.0, 1.0]
+
+[C] Dylan Cardwell (Sacramento Kings)
+  assists UNDER 1.5
+  Odds: 1.3034410844629822x | Score: 74.2
+  Recent: 5/7 | Historical: 84.6%
+  Rule: Centers rarely handle the ball - low assists expected
+  Last 7: [0.0, 1.0, 1.0, 1.0, 0.0, 3.0, 4.0]
+
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+[PG] Bub Carrington (Washington Wizards)
+  assists OVER 3.5
+  Odds: 1.3231013495633765x | Score: 88.5
+  Recent: 7/7 | Historical: 65.8%
+  Rule: Point guards are primary ball handlers
+  Last 7: [7.0, 4.0, 7.0, 4.0, 4.0, 4.0, 5.0]
+
+[PG] James Harden (Los Angeles Clippers)
+  rebounds UNDER 5.5
+  Odds: 1.4289797084881395x | Score: 83.6
+  Recent: 6/7 | Historical: 66.7%
+  Rule: Smallest players on court
+  Last 7: [4.0, 7.0, 4.0, 3.0, 3.0, 3.0, 3.0]
+
+[PG] James Harden (Los Angeles Clippers)
+  assists OVER 6.5
+  Odds: 1.3557483731019522x | Score: 83.0
+  Recent: 5/7 | Historical: 66.7%
+  Rule: Point guards are primary ball handlers
+  Last 7: [10.0, 7.0, 6.0, 9.0, 12.0, 7.0, 5.0]
+
+[PG] James Harden (Los Angeles Clippers)
+  blocks UNDER 0.5
+  Odds: 1.2987012987012987x | Score: 80.8
+  Recent: 6/7 | Historical: 77.8%
+  Rule: Too short for rim protection
+  Last 7: [0.0, 0.0, 2.0, 0.0, 0.0, 0.0, 0.0]
+
+[PG] Kris Dunn (Los Angeles Clippers)
+  rebounds UNDER 3.5
+  Odds: 1.5384615384615383x | Score: 78.4
+  Recent: 5/7 | Historical: 64.1%
+  Rule: Smallest players on court
+  Last 7: [2.0, 1.0, 1.0, 4.0, 3.0, 4.0, 2.0]
+
+[PF] John Collins (Los Angeles Clippers)
+  assists UNDER 1.5
+  Odds: 1.3199577613516367x | Score: 85.6
+  Recent: 7/7 | Historical: 81.6%
+  Rule: Limited playmaking role
+  Last 7: [1.0, 1.0, 0.0, 0.0, 1.0, 0.0, 0.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+[PG] Tre Jones (Chicago Bulls)
+  rebounds UNDER 3.5
+  Odds: 1.589067217543302x | Score: 77.1
+  Recent: 5/7 | Historical: 66.7%
+  Rule: Smallest players on court
+  Last 7: [2.0, 3.0, 7.0, 5.0, 2.0, 0.0, 2.0]
+
+[PG] Keyonte George (Utah Jazz)
+  assists OVER 6.5
+  Odds: 1.6946280291476021x | Score: 75.5
+  Recent: 5/7 | Historical: 63.2%
+  Rule: Point guards are primary ball handlers
+  Last 7: [9.0, 5.0, 7.0, 11.0, 4.0, 9.0, 7.0]
+
+[PF] Matas Buzelis (Chicago Bulls)
+  assists UNDER 2.5
+  Odds: 1.4736221632773356x | Score: 79.1
+  Recent: 5/7 | Historical: 76.9%
+  Rule: Limited playmaking role
+  Last 7: [2.0, 2.0, 1.0, 2.0, 3.0, 7.0, 2.0]
+
+[PF] Matas Buzelis (Chicago Bulls)
+  rebounds OVER 4.5
+  Odds: 1.3736263736263736x | Score: 78.9
+  Recent: 5/7 | Historical: 64.1%
+  Rule: Power forwards are secondary rebounders
+  Last 7: [6.0, 6.0, 3.0, 3.0, 8.0, 9.0, 6.0]
+
+[PF] Lauri Markkanen (Utah Jazz)
+  assists UNDER 2.5
+  Odds: 1.4253135689851768x | Score: 78.6
+  Recent: 5/7 | Historical: 69.7%
+  Rule: Limited playmaking role
+  Last 7: [2.0, 4.0, 1.0, 4.0, 1.0, 2.0, 1.0]
+
+[SG] Isaac Okoro (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.2923235978288963x | Score: 89.4
+  Recent: 6/7 | Historical: 90.3%
+  Rule: Perimeter players don't crash boards
+  Last 7: [4.0, 4.0, 4.0, 3.0, 2.0, 3.0, 5.0]
+

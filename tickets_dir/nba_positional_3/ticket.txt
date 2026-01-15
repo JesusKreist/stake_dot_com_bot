@@ -1,0 +1,182 @@
+NBA POSITIONAL PLAYS TICKET #3
+================================================================================
+Strategy: Position-Based Prop Selection
+================================================================================
+Total Picks: 22
+Total Odds: 1145.17x
+Games: LA Clippers - Washington Wizards, Philadelphia 76ers - Cleveland Cavaliers, Sacramento Kings - New York Knicks, Chicago Bulls - Utah Jazz
+================================================================================
+
+POSITIONAL BREAKDOWN:
+  C: 1 picks
+  PG: 10 picks
+  PF: 1 picks
+  SG: 10 picks
+
+================================================================================
+
+LA Clippers - Washington Wizards
+--------------------------------------------------------------------------------
+[SG] Tre Johnson (Washington Wizards)
+  assists UNDER 3.5
+  Odds: 1.2956724540036277x | Score: 89.8
+  Recent: 6/7 | Historical: 93.5%
+  Rule: Off-ball movement, not playmaking
+  Last 7: [3.0, 2.0, 3.0, 5.0, 3.0, 1.0, 2.0]
+
+[SG] Justin Champagnie (Washington Wizards)
+  rebounds UNDER 8.5
+  Odds: 1.2903225806451613x | Score: 81.0
+  Recent: 5/7 | Historical: 77.8%
+  Rule: Perimeter players don't crash boards
+  Last 7: [6.0, 9.0, 5.0, 3.0, 6.0, 7.0, 9.0]
+
+[SG] Tre Johnson (Washington Wizards)
+  three attempted OVER 4.5
+  Odds: 1.4253135689851768x | Score: 80.0
+  Recent: 5/7 | Historical: 64.5%
+  Rule: Spot-up shooting role
+  Last 7: [8.0, 5.0, 6.0, 4.0, 5.0, 3.0, 7.0]
+
+[SG] Bilal Coulibaly (Washington Wizards)
+  rebounds UNDER 5.5
+  Odds: 1.4634860237084735x | Score: 78.2
+  Recent: 5/7 | Historical: 70.8%
+  Rule: Perimeter players don't crash boards
+  Last 7: [4.0, 5.0, 1.0, 8.0, 4.0, 8.0, 5.0]
+
+[SG] Bilal Coulibaly (Washington Wizards)
+  fg attempted OVER 6.5
+  Odds: 1.2936610608020698x | Score: 76.9
+  Recent: 5/7 | Historical: 62.5%
+  Rule: Shooting guards are volume scorers
+  Last 7: [10.0, 6.0, 14.0, 8.0, 6.0, 8.0, 8.0]
+
+
+Philadelphia 76ers - Cleveland Cavaliers
+--------------------------------------------------------------------------------
+[PG] Tyrese Maxey (Philadelphia 76ers)
+  steals OVER 1.5
+  Odds: 1.6750418760469012x | Score: 73.3
+  Recent: 5/7 | Historical: 52.8%
+  Rule: PGs guard opposing ball handlers
+  Last 7: [1.0, 2.0, 3.0, 2.0, 4.0, 1.0, 2.0]
+
+[SG] Quentin Grimes (Philadelphia 76ers)
+  three attempted OVER 3.5
+  Odds: 1.4015416958654519x | Score: 89.7
+  Recent: 5/7 | Historical: 88.9%
+  Rule: Spot-up shooting role
+  Last 7: [2.0, 4.0, 4.0, 3.0, 7.0, 7.0, 7.0]
+
+[SG] Quentin Grimes (Philadelphia 76ers)
+  fg attempted OVER 5.5
+  Odds: 1.337613697164259x | Score: 89.4
+  Recent: 5/7 | Historical: 88.9%
+  Rule: Shooting guards are volume scorers
+  Last 7: [3.0, 9.0, 5.0, 9.0, 8.0, 10.0, 9.0]
+
+[SG] Donovan Mitchell (Cleveland Cavaliers)
+  three attempted OVER 8.5
+  Odds: 1.4738393515106853x | Score: 85.9
+  Recent: 5/7 | Historical: 75.7%
+  Rule: Spot-up shooting role
+  Last 7: [9.0, 10.0, 8.0, 10.0, 12.0, 7.0, 9.0]
+
+[SG] Jaylon Tyson (Cleveland Cavaliers)
+  three attempted OVER 2.5
+  Odds: 1.4204545454545456x | Score: 85.2
+  Recent: 5/7 | Historical: 86.1%
+  Rule: Spot-up shooting role
+  Last 7: [5.0, 4.0, 1.0, 0.0, 5.0, 4.0, 6.0]
+
+
+Sacramento Kings - New York Knicks
+--------------------------------------------------------------------------------
+[C] Dylan Cardwell (Sacramento Kings)
+  rebounds OVER 4.5
+  Odds: 1.5335071308081583x | Score: 84.0
+  Recent: 7/7 | Historical: 69.2%
+  Rule: Centers are primary rebounders
+  Last 7: [7.0, 11.0, 8.0, 9.0, 7.0, 8.0, 6.0]
+
+[PG] Jalen Brunson (New York Knicks)
+  rebounds UNDER 4.5
+  Odds: 1.2853470437017995x | Score: 88.4
+  Recent: 6/7 | Historical: 77.8%
+  Rule: Smallest players on court
+  Last 7: [6.0, 3.0, 3.0, 3.0, 4.0, 2.0, 4.0]
+
+[PG] Jordan Clarkson (New York Knicks)
+  rebounds UNDER 2.5
+  Odds: 1.2774655084312723x | Score: 82.6
+  Recent: 6/7 | Historical: 69.2%
+  Rule: Smallest players on court
+  Last 7: [0.0, 1.0, 3.0, 1.0, 1.0, 0.0, 2.0]
+
+[PG] Russell Westbrook (Sacramento Kings)
+  assists OVER 5.5
+  Odds: 1.3331555792560992x | Score: 80.4
+  Recent: 5/7 | Historical: 62.5%
+  Rule: Point guards are primary ball handlers
+  Last 7: [7.0, 10.0, 7.0, 4.0, 3.0, 6.0, 6.0]
+
+[PG] Russell Westbrook (Sacramento Kings)
+  steals OVER 0.5
+  Odds: 1.3131976362442548x | Score: 76.4
+  Recent: 5/7 | Historical: 70.0%
+  Rule: PGs guard opposing ball handlers
+  Last 7: [1.0, 1.0, 0.0, 1.0, 4.0, 1.0, 0.0]
+
+[PF] Karl-Anthony Towns (New York Knicks)
+  rebounds OVER 9.5
+  Odds: 1.4054813773717498x | Score: 87.1
+  Recent: 5/7 | Historical: 77.8%
+  Rule: Power forwards are secondary rebounders
+  Last 7: [11.0, 12.0, 11.0, 1.0, 14.0, 7.0, 12.0]
+
+
+Chicago Bulls - Utah Jazz
+--------------------------------------------------------------------------------
+[SG] Isaac Okoro (Chicago Bulls)
+  three attempted OVER 2.5
+  Odds: 1.427755568246716x | Score: 73.4
+  Recent: 5/7 | Historical: 58.1%
+  Rule: Spot-up shooting role
+  Last 7: [4.0, 6.0, 2.0, 7.0, 4.0, 2.0, 4.0]
+
+[PG] Ayo Dosunmu (Chicago Bulls)
+  rebounds UNDER 4.5
+  Odds: 1.3113034356150015x | Score: 95.8
+  Recent: 7/7 | Historical: 90.9%
+  Rule: Smallest players on court
+  Last 7: [4.0, 4.0, 1.0, 3.0, 4.0, 3.0, 4.0]
+
+[PG] Keyonte George (Utah Jazz)
+  assists OVER 5.5
+  Odds: 1.3888888888888888x | Score: 88.6
+  Recent: 5/7 | Historical: 78.9%
+  Rule: Point guards are primary ball handlers
+  Last 7: [9.0, 5.0, 7.0, 11.0, 4.0, 9.0, 7.0]
+
+[PG] Keyonte George (Utah Jazz)
+  rebounds UNDER 5.5
+  Odds: 1.2758356723653992x | Score: 84.3
+  Recent: 5/7 | Historical: 73.7%
+  Rule: Smallest players on court
+  Last 7: [5.0, 2.0, 3.0, 7.0, 4.0, 2.0, 6.0]
+
+[PG] Keyonte George (Utah Jazz)
+  steals OVER 0.5
+  Odds: 1.426330052774212x | Score: 82.7
+  Recent: 7/7 | Historical: 68.4%
+  Rule: PGs guard opposing ball handlers
+  Last 7: [1.0, 1.0, 3.0, 1.0, 1.0, 1.0, 1.0]
+
+[PG] Tre Jones (Chicago Bulls)
+  assists OVER 4.5
+  Odds: 1.3170025023047545x | Score: 80.8
+  Recent: 6/7 | Historical: 60.6%
+  Rule: Point guards are primary ball handlers
+  Last 7: [7.0, 5.0, 12.0, 4.0, 8.0, 5.0, 12.0]
+
